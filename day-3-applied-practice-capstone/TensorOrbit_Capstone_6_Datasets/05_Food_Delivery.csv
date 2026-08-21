@@ -1,0 +1,149 @@
+﻿Delivery_ID,Order_Date,Zone,Restaurant_Type,Distance_KM,Order_Value,Delivery_Fee,Delivery_Time_Min,Weather,Rider_Experience_Level,Customer_Rating,Late_Delivery
+FD-5001,2026-05-06,Industrial,Western,8.5,21.49,8.35,49,Rain,Intermediate,4.0,Yes
+FD-5002,2026-07-29,Suburban,Local,6.8,53.16,7.52,41,Clear,Intermediate,4.0,No
+FD-5003,2026-06-23,City Centre,Local,5.8,30.71,7.97,29,Clear,Intermediate,4.0,No
+FD-5004,2026-07-29,University,Western,5.8,21.57,7.02,35,Rain,Experienced,5.0,No
+FD-5005,2026-08-16,City Centre,Cafe,2.3,49.34,4.96,31,Rain,Beginner,4.0,No
+FD-5006,2026-07-31,University,Local,6.0,39.55,7.39,29,Clear,Intermediate,4.5,No
+FD-5007,2026-05-05,City Centre,Asian,2.8,56.26,5.03,39,Clear,Intermediate,4.5,No
+FD-5008,2026-05-07,City Centre,Asian,6.6,44.73,8.61,26,Clear,Experienced,4.0,No
+FD-5009,2026-05-26,Suburban,Cafe,7.2,59.28,8.28,45,Rain,Experienced,4.0,No
+FD-5010,2026-07-06,City Centre,Cafe,5.2,10,7.03,33,Clear,Intermediate,4.5,No
+FD-5011,2026-07-29,University,Western,1.6,52.89,4.49,22,Clear,Experienced,4.0,No
+FD-5012,2026-06-15,University,Local,7.6,29.19,8.65,30,Clear,Intermediate,4.5,No
+FD-5013,2026-05-15,City Centre,Local,1.8,47.77,3.73,29,Rain,Experienced,4.0,No
+FD-5014,2026-06-21,City Centre,Fast Food,4.4,58.6,7.26,26,Clear,Experienced,4.5,No
+FD-5015,2026-08-01,University,Local,4.7,38.4,5.78,33,Clear,Intermediate,4.0,No
+FD-5016,2026-07-14,Industrial,Western,3.8,15.4,5.42,28,Clear,Beginner,4.0,No
+FD-5017,2026-05-24,Suburban,Cafe,5.7,45.89,6.74,33,Clear,Intermediate,4.0,No
+FD-5018,2026-05-06,Suburban,Cafe,5.9,29.91,8.24,47,Rain,Intermediate,2.5,Yes
+FD-5019,2026-05-25,Industrial,Local,21.0,31.76,17.67,70,Clear,Beginner,3.5,Yes
+FD-5020,2026-08-20,University,Cafe,1.6,26.41,4.33,29,Clear,Beginner,5.0,No
+FD-5021,2026-05-16,Industrial,Fast Food,1.2,21.6,3.39,24,Rain,Experienced,4.5,No
+FD-5022,2026-06-19,Suburban,Asian,4.4,42.88,7.13,35,Heavy Rain,Intermediate,4.5,No
+FD-5023,2026-08-05,Suburban,Western,5.7,54.01,7.76,31,Clear,Experienced,4.0,No
+FD-5024,2026-05-03,City Centre,Asian,6.7,48.6,8.61,39,Clear,Experienced,5.0,No
+FD-5025,2026-08-11,Suburban,Local,10.3,72.43,9.22,49,Heavy Rain,Experienced,2.5,Yes
+FD-5026,2026-08-06,Industrial,Asian,12.0,24.33,11.03,46,Clear,Beginner,2.5,Yes
+FD-5027,2026-08-24,University,Western,9.8,60.53,9.61,40,Clear,Intermediate,4.5,No
+FD-5028,2026-05-12,Suburban,Fast Food,10.0,40.04,10.39,41,Rain,Intermediate,4.5,No
+FD-5029,2026-07-12,Suburban,Cafe,7.8,85.71,8.27,48,Rain,Beginner,3.5,Yes
+FD-5030,2026-08-02,City Centre,Asian,11.1,64.87,9.8,46,Clear,Intermediate,,Yes
+FD-5031,2026-07-08,City Centre,Western,2.9,46.38,4.82,38,Clear,Beginner,4.0,No
+FD-5032,2026-05-17,University,Asian,9.0,68.02,10.04,46,Clear,Beginner,4.0,Yes
+FD-5033,2026-07-13,University,Western,7.7,25.35,8.22,33,Clear,Intermediate,5.0,No
+FD-5034,2026-07-31,City Centre,Western,6.7,19.35,8.54,49,Clear,Beginner,3.5,Yes
+FD-5035,2026-06-22,Suburban,Asian,3.6,45.05,5.8,37,Clear,Intermediate,5.0,No
+FD-5036,2026-06-30,City Centre,Fast Food,7.5,28.91,8.25,26,Clear,Experienced,4.5,No
+FD-5037,2026-07-09,Suburban,Asian,6.8,45.95,7.12,44,Clear,Beginner,4.0,No
+FD-5038,2026-05-30,City Centre,Asian,3.7,50.98,6.17,30,Clear,Intermediate,4.5,No
+FD-5039,2026-06-18,University,Cafe,5.7,35.2,6.55,49,Heavy Rain,Experienced,3.0,Yes
+FD-5040,2026-05-11,Suburban,Fast Food,2.3,61.94,4.26,29,Clear,Beginner,4.5,No
+FD-5041,2026-06-18,City Centre,Fast Food,0.5,29.17,4.09,19,Clear,Intermediate,4.5,No
+FD-5042,2026-08-01,Industrial,Western,9.2,40.53,9.16,38,Clear,Intermediate,4.5,No
+FD-5043,2026-05-27,Suburban,Western,7.9,34.67,8.64,40,Clear,Intermediate,4.0,No
+FD-5044,2026-06-21,University,Asian,7.6,54.61,8.77,34,Clear,Beginner,4.5,No
+FD-5045,2026-07-26,City Centre,Asian,2.4,52.05,4.54,25,Rain,Intermediate,4.0,No
+FD-5046,2026-05-09,University,Local,2.4,39.77,4.52,28,Rain,Experienced,5.0,No
+FD-5047,2026-08-24,Suburban,Fast Food,11.3,37.32,10.29,48,Clear,Intermediate,4.0,Yes
+FD-5048,2026-05-21,City Centre,Fast Food,5.6,44.35,6.99,30,Clear,Intermediate,4.5,No
+FD-5049,2026-05-04,Suburban,Fast Food,6.8,66.66,6.95,27,Clear,Experienced,5.0,No
+FD-5050,2026-08-04,University,Cafe,7.6,57.03,9.43,30,Clear,Experienced,5.0,No
+FD-5051,2026-06-14,City Centre,Fast Food,3.9,35.21,6.87,35,Clear,Beginner,4.0,No
+FD-5052,2026-07-05,City Centre,Cafe,0.5,34.23,4.53,19,Clear,Intermediate,5.0,No
+FD-5053,2026-07-09,Suburban,Fast Food,5.4,10,6.07,31,Clear,,4.5,No
+FD-5054,2026-08-14,University,Western,0.5,27.61,3.69,17,Clear,Experienced,4.5,No
+FD-5055,2026-05-08,City Centre,Local,5.3,27.61,6.99,35,Clear,Beginner,4.0,No
+FD-5056,2026-06-02,University,Fast Food,4.3,28.59,6.95,31,Clear,Beginner,4.0,No
+FD-5057,2026-05-08,Industrial,Fast Food,10.2,50.95,10.99,75,Clear,Intermediate,3.0,Yes
+FD-5058,2026-05-07,City Centre,Western,3.0,62.4,5.5,18,Clear,Experienced,4.0,No
+FD-5059,2026-05-24,City Centre,Fast Food,5.2,29.86,6.55,26,Clear,Intermediate,5.0,No
+FD-5060,2026-08-16,City Centre,Fast Food,6.1,52.35,6.65,24,Clear,Intermediate,5.0,No
+FD-5061,2026-05-05,Industrial,Asian,7.0,57.33,8.85,31,Clear,Intermediate,4.5,No
+FD-5062,2026-05-10,City Centre,Western,5.3,25.22,7.74,44,Rain,Intermediate,5.0,No
+FD-5063,2026-06-21,City Centre,Asian,1.8,50.69,4.8,27,Clear,Intermediate,4.5,No
+FD-5064,2026-05-25,University,Local,5.7,22.04,6.49,37,Rain,Intermediate,4.5,No
+FD-5065,2026-08-18,City Centre,Local,2.6,29.18,4.39,28,Clear,Beginner,4.0,No
+FD-5066,2026-05-06,University,Fast Food,8.1,42.87,9.75,33,Clear,Intermediate,4.0,No
+FD-5067,2026-07-10,University,Fast Food,4.2,44.04,7.05,48,Heavy Rain,Experienced,3.5,Yes
+FD-5068,2026-05-01,Suburban,Fast Food,8.7,32.18,8.26,45,Heavy Rain,Experienced,4.5,No
+FD-5069,2026-05-18,University,Western,5.7,64.27,7.51,36,Clear,Intermediate,5.0,No
+FD-5070,2026-06-25,Suburban,Fast Food,9.9,35.22,9.09,62,Rain,Beginner,2.5,Yes
+FD-5071,2026-05-13,City Centre,Fast Food,4.6,51.98,6.38,29,Clear,Intermediate,4.5,No
+FD-5072,2026-05-25,University,Fast Food,4.9,30.08,6.46,44,Rain,Beginner,4.0,No
+FD-5073,2026-06-07,Industrial,Asian,6.5,18.14,8.66,41,Rain,Intermediate,4.5,No
+FD-5074,2026-07-02,Suburban,Fast Food,10.4,56.82,10.52,35,Clear,Intermediate,4.0,No
+FD-5075,2026-06-20,University,Local,7.4,39.52,8.54,39,Rain,Intermediate,4.0,No
+FD-5076,2026-07-27,University,Western,2.2,14.65,4.97,33,Heavy Rain,Experienced,5.0,No
+FD-5077,2026-08-24,Industrial,Western,5.9,54.85,8.11,35,Clear,Intermediate,4.0,No
+FD-5078,2026-05-22,University,Western,7.8,30.67,8.85,46,Clear,Experienced,2.5,Yes
+FD-5079,2026-05-02,University,Fast Food,5.0,40.6,7.1,29,Clear,Experienced,,No
+FD-5080,2026-06-17,City Centre,Cafe,6.0,35.21,7.82,32,Clear,Experienced,5.0,No
+FD-5081,2026-08-02,Suburban,Local,8.6,34.67,9.23,46,Clear,Beginner,2.5,Yes
+FD-5082,2026-08-08,Industrial,Cafe,2.8,48.79,4.75,36,Heavy Rain,Intermediate,5.0,No
+FD-5083,2026-07-27,Industrial,Fast Food,6.7,31.49,7.03,22,Clear,Experienced,4.5,No
+FD-5084,2026-05-07,University,Asian,5.1,20.75,7.77,33,Clear,Intermediate,4.5,No
+FD-5085,2026-07-11,City Centre,Western,6.2,44.07,7.42,42,Clear,Intermediate,5.0,No
+FD-5086,2026-08-13,University,Western,8.7,24.33,9.71,32,Clear,Intermediate,4.0,No
+FD-5087,2026-05-06,City Centre,Western,3.8,22.48,6.14,32,Clear,Beginner,5.0,No
+FD-5088,2026-08-04,Suburban,Western,6.2,54.32,6.68,32,Clear,Intermediate,4.5,No
+FD-5089,2026-06-24,University,Asian,7.5,37.44,7.47,40,Rain,Intermediate,4.5,No
+FD-5090,2026-06-30,City Centre,Cafe,3.2,48.59,4.78,36,Heavy Rain,Experienced,4.0,No
+FD-5091,2026-07-20,University,Local,6.0,39.11,7.18,45,Clear,Beginner,4.5,No
+FD-5092,2026-05-23,University,Cafe,7.7,22.45,9.2,49,Rain,Beginner,3.0,Yes
+FD-5093,2026-07-01,Industrial,Fast Food,10.0,67.98,10.8,41,Rain,Experienced,4.0,No
+FD-5094,2026-06-29,University,Cafe,3.2,34.97,4.79,25,Clear,Beginner,5.0,No
+FD-5095,2026-06-08,Industrial,Western,7.7,60.63,9.29,43,Rain,Intermediate,4.5,No
+FD-5096,2026-05-05,Suburban,Western,9.1,30.86,9.13,49,Rain,Intermediate,2.5,Yes
+FD-5097,2026-06-23,Industrial,Local,4.6,37.49,6.66,43,Rain,Beginner,5.0,No
+FD-5098,2026-06-14,City Centre,Fast Food,6.8,22.0,7.09,26,Clear,Intermediate,4.5,No
+FD-5099,2026-07-23,Industrial,Cafe,1.8,17.39,3.79,33,Clear,Intermediate,4.0,No
+FD-5100,2026-05-13,City Centre,Asian,2.9,42.12,4.78,27,Rain,,4.5,No
+FD-5101,2026-06-17,Industrial,Fast Food,5.0,10.46,6.59,19,Clear,Intermediate,4.5,No
+FD-5102,2026-08-06,Suburban,Western,10.2,14.77,10.97,50,Rain,Intermediate,4.0,Yes
+FD-5103,2026-07-11,Suburban,Local,6.6,25.39,6.85,36,Clear,Intermediate,4.0,No
+FD-5104,2026-05-24,Suburban,Asian,8.1,10,9.28,35,Clear,Intermediate,4.5,No
+FD-5105,2026-06-29,City Centre,Asian,4.1,14.9,5.37,27,Clear,Intermediate,4.5,No
+FD-5106,2026-05-30,City Centre,Asian,5.3,66.49,6.43,31,Clear,Intermediate,4.5,No
+FD-5107,2026-05-30,Suburban,Cafe,8.0,45.04,8.67,32,Clear,Intermediate,4.5,No
+FD-5108,2026-05-07,University,Western,2.5,44.28,5.63,32,Clear,Experienced,4.0,No
+FD-5109,2026-07-02,Suburban,Asian,7.2,48.52,8.08,28,Clear,Experienced,4.0,No
+FD-5110,2026-05-31,Industrial,Fast Food,6.3,70.64,8.17,53,Heavy Rain,Beginner,3.0,Yes
+FD-5111,2026-05-01,Suburban,Western,9.8,42.35,9.75,48,Rain,Experienced,,Yes
+FD-5112,2026-06-09,Suburban,Local,9.1,53.43,8.55,56,Heavy Rain,Beginner,3.5,Yes
+FD-5113,2026-06-12,Suburban,Fast Food,5.4,28.14,6.08,33,Clear,Beginner,4.5,No
+FD-5114,2026-05-18,Suburban,Local,5.5,24.32,7.09,33,Clear,Intermediate,4.0,No
+FD-5115,2026-05-16,Suburban,Cafe,1.9,30.93,5.47,24,Clear,Intermediate,4.5,No
+FD-5116,2026-07-29,Suburban,Local,5.6,77.86,7.53,28,Clear,Experienced,4.0,No
+FD-5117,2026-08-18,City Centre,Local,2.2,34.52,4.75,31,Clear,Intermediate,4.5,No
+FD-5118,2026-06-17,Suburban,Fast Food,4.2,41.89,6.7,36,Clear,Beginner,4.0,No
+FD-5119,2026-08-16,Industrial,Asian,6.9,58.77,8.41,39,Clear,Experienced,4.5,No
+FD-5120,2026-05-02,Industrial,Local,9.5,28.17,8.95,48,Heavy Rain,Intermediate,2.5,Yes
+FD-5121,2026-07-31,Suburban,Local,18.5,34.97,16.2,48,Clear,Experienced,4.0,Yes
+FD-5122,2026-08-16,University,Fast Food,5.8,67.81,7.92,20,Clear,Experienced,5.0,No
+FD-5123,2026-07-21,City Centre,Asian,5.6,14.45,7.78,37,Clear,Beginner,4.5,No
+FD-5124,2026-05-25,Suburban,Western,4.4,48.12,7.02,31,Clear,Intermediate,4.5,No
+FD-5125,2026-05-28,Suburban,Local,7.0,26.3,7.87,37,Clear,Intermediate,4.0,No
+FD-5126,2026-05-26,University,Local,6.8,36.15,7.75,23,Clear,Intermediate,5.0,No
+FD-5127,2026-07-28,City Centre,Fast Food,4.2,30.48,5.54,20,Clear,Experienced,4.5,No
+FD-5128,2026-08-02,University,Asian,4.8,80.01,6.9,40,Clear,Beginner,4.0,No
+FD-5129,2026-07-07,University,Local,7.4,34.9,7.74,37,Clear,Experienced,4.5,No
+FD-5130,2026-07-07,Suburban,Fast Food,7.2,45.41,7.95,25,Clear,Experienced,4.5,No
+FD-5131,2026-06-30,City Centre,Western,5.6,35.63,6.2,34,Rain,Intermediate,4.5,No
+FD-5132,2026-08-06,City Centre,Asian,4.4,33.88,6.76,82,Heavy Rain,Experienced,2.5,Yes
+FD-5133,2026-05-04,Industrial,Western,4.9,49.66,7.2,33,Clear,Experienced,4.5,No
+FD-5134,2026-05-10,Industrial,Cafe,6.6,28.77,7.13,36,Clear,Intermediate,4.5,No
+FD-5135,2026-07-22,University,Cafe,10.1,78.25,10.64,35,Clear,Experienced,4.0,No
+FD-5136,2026-05-18,Suburban,Western,8.5,35.83,9.52,30,Clear,Intermediate,5.0,No
+FD-5137,2026-08-02,University,Fast Food,7.7,10,9.02,27,Clear,Experienced,4.0,No
+FD-5138,2026-07-01,City Centre,Local,2.4,27.44,5.88,48,Rain,Beginner,2.5,Yes
+FD-5139,2026-06-26,City Centre,Fast Food,3.1,18.91,5.32,31,Rain,Intermediate,4.5,No
+FD-5140,2026-07-07,City Centre,Local,5.0,14.69,7.02,28,Clear,Experienced,4.0,No
+FD-5141,2026-07-25,City Centre,Cafe,2.0,50.4,5.71,22,Clear,Intermediate,4.5,No
+FD-5142,2026-05-26,Industrial,Western,5.7,46.51,7.86,37,Clear,Beginner,4.5,No
+FD-5143,2026-05-09,City Centre,Local,5.9,53.69,7.96,41,Rain,Intermediate,4.5,No
+FD-5144,2026-05-29,University,Fast Food,7.3,27.17,8.24,37,Clear,Intermediate,4.0,No
+FD-5145,2026-08-18,Suburban,Western,6.4,30.79,7.83,42,Rain,Intermediate,4.0,No
+FD-5008,2026-05-07,City Centre,Asian,6.6,44.73,8.61,26,Clear,Experienced,4.0,No
+FD-5064,2026-05-25,University,Local,5.7,22.04,6.49,37,Rain,Intermediate,4.5,No
+FD-5119,2026-08-16,Industrial,Asian,6.9,58.77,8.41,39,Clear,Experienced,4.5,No

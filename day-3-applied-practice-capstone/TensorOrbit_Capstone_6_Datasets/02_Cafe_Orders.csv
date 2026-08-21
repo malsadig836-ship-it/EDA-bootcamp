@@ -1,0 +1,144 @@
+﻿Order_ID,Order_Date,Outlet,Item_Category,Item_Name,Order_Channel,Customer_Type,Quantity,Unit_Price,Order_Value,Preparation_Minutes,Rating,Payment_Method
+CF-2001,2026-06-25,Campus,Dessert,Brownie,Dine-In,Staff,1,7.99,7.99,8,5.0,Cash
+CF-2002,2026-08-02,Campus,Coffee,Cappuccino,Dine-In,Student,1,10.78,10.78,9,5.0,E-Wallet
+CF-2003,2026-05-14,Mall,Food,Chicken Sandwich,Dine-In,Student,1,14.71,14.71,10,4.5,E-Wallet
+CF-2004,2026-06-01,Campus,Food,Pasta,Dine-In,Student,2,17.76,35.52,8,4.0,Card
+CF-2005,2026-05-17,Campus,Coffee,Americano,Dine-In,Student,1,7.97,7.97,3,4.5,Card
+CF-2006,2026-07-11,Campus,Coffee,Latte,Delivery,Student,1,12.08,12.08,14,4.0,Cash
+CF-2007,2026-05-07,Campus,Coffee,Latte,Dine-In,Public,4,11.89,47.56,9,5.0,E-Wallet
+CF-2008,2026-08-10,City Centre,Tea,Milk Tea,Delivery,Student,1,8.96,8.96,13,3.5,Cash
+CF-2009,2026-08-05,City Centre,Dessert,Brownie,Dine-In,Public,1,8.05,8.05,5,4.5,Cash
+CF-2010,2026-08-19,City Centre,Dessert,Cheesecake,Takeaway,Student,2,12.0,24.0,7,4.0,E-Wallet
+CF-2011,2026-06-20,Campus,Food,Pasta,Takeaway,Student,1,17.71,17.71,10,4.5,Cash
+CF-2012,2026-06-15,Campus,Coffee,Americano,Delivery,Student,1,8.15,8.15,11,5.0,E-Wallet
+CF-2013,2026-06-11,Campus,Dessert,Brownie,Takeaway,Student,1,8.2,8.2,9,3.0,Cash
+CF-2014,2026-05-05,City Centre,Coffee,Mocha,Dine-In,Public,1,13.16,13.16,8,4.0,Cash
+CF-2015,2026-06-07,City Centre,Dessert,Cheesecake,Delivery,Student,2,12.27,24.54,13,5.0,E-Wallet
+CF-2016,2026-06-20,Campus,Tea,Green Tea,Dine-In,Staff,3,8.09,24.27,4,5.0,E-Wallet
+CF-2017,2026-06-06,Campus,Tea,Lemon Tea,Delivery,Student,5,8.39,41.95,14,4.5,Cash
+CF-2018,2026-05-10,Mall,Tea,Green Tea,Takeaway,Student,1,7.92,7.92,6,5.0,Cash
+CF-2019,2026-05-14,Campus,Tea,Green Tea,Dine-In,Staff,2,7.88,15.76,9,,Cash
+CF-2020,2026-05-04,City Centre,Tea,Milk Tea,Delivery,Public,1,8.89,8.89,6,5.0,E-Wallet
+CF-2021,2026-06-14,Mall,Coffee,Latte,Takeaway,Public,1,12.33,12.33,9,5.0,E-Wallet
+CF-2022,2026-05-10,Mall,Dessert,Brownie,Takeaway,Public,1,7.86,7.86,7,3.0,E-Wallet
+CF-2023,2026-07-03,City Centre,Coffee,Cappuccino,Dine-In,Student,1,10.81,10.81,9,5.0,Cash
+CF-2024,2026-08-12,City Centre,Food,Croissant,Takeaway,Student,1,8.23,8.23,7,4.0,E-Wallet
+CF-2025,2026-08-24,Campus,Coffee,Mocha,Takeaway,Student,2,12.74,25.48,6,4.0,Cash
+CF-2026,2026-07-30,Campus,Coffee,Latte,Delivery,Student,3,11.97,35.91,17,4.0,E-Wallet
+CF-2027,2026-06-23,Mall,Food,Nasi Lemak,Dine-In,Student,3,10.23,30.69,35,4.5,Card
+CF-2028,2026-08-07,City Centre,Coffee,Latte,Dine-In,Student,1,11.82,11.82,10,4.5,E-Wallet
+CF-2029,2026-06-13,Mall,Coffee,Cappuccino,Delivery,Student,1,11.27,11.27,11,4.5,E-Wallet
+CF-2030,2026-08-24,Campus,Tea,Lemon Tea,Dine-In,Student,1,8.34,8.34,4,4.5,Card
+CF-2031,2026-06-13,Campus,Coffee,Mocha,Delivery,Student,1,13.23,13.23,11,3.0,Card
+CF-2032,2026-07-21,City Centre,Food,Pasta,Takeaway,Public,2,18.15,36.3,12,4.5,Cash
+CF-2033,2026-08-11,Campus,Dessert,Brownie,Takeaway,Student,1,7.95,7.95,6,3.5,Cash
+CF-2034,2026-07-06,City Centre,Food,Croissant,Dine-In,Staff,2,7.97,15.94,7,4.5,E-Wallet
+CF-2035,2026-05-22,Campus,Tea,Green Tea,Dine-In,Public,2,8.03,16.06,15,5.0,E-Wallet
+CF-2036,2026-05-03,Mall,Coffee,Cappuccino,Takeaway,Student,1,11.29,11.29,3,5.0,E-Wallet
+CF-2037,2026-05-21,City Centre,Tea,Green Tea,Takeaway,,4,7.86,31.44,6,3.5,E-Wallet
+CF-2038,2026-05-28,Campus,Food,Nasi Lemak,Takeaway,Public,3,10.21,30.63,5,4.5,Cash
+CF-2039,2026-06-11,Campus,Tea,Milk Tea,Takeaway,Student,4,9.09,36.36,5,4.5,Card
+CF-2040,2026-07-20,Campus,Coffee,Mocha,Delivery,Student,1,13.05,13.05,14,3.0,E-Wallet
+CF-2041,2026-05-03,City Centre,Tea,Milk Tea,Takeaway,Student,4,8.92,35.68,7,4.5,Card
+CF-2042,2026-08-21,Campus,Dessert,Cheesecake,Takeaway,Public,3,12.36,37.08,6,3.5,Card
+CF-2043,2026-05-29,City Centre,Coffee,Cappuccino,Dine-In,Staff,2,10.83,21.66,10,4.5,E-Wallet
+CF-2044,2026-07-17,Campus,Food,Nasi Lemak,Dine-In,Staff,1,10.15,10.15,10,4.5,Cash
+CF-2045,2026-07-08,Campus,Tea,Lemon Tea,Dine-In,Public,4,8.7,34.8,6,4.0,Cash
+CF-2046,2026-08-05,City Centre,Coffee,Americano,Takeaway,Student,1,8.04,8.04,10,4.5,Cash
+CF-2047,2026-05-13,Mall,Food,Pasta,Takeaway,Public,1,18.38,18.38,4,4.0,E-Wallet
+CF-2048,2026-07-14,Campus,Food,Pasta,Delivery,Public,1,18.45,18.45,14,4.5,E-Wallet
+CF-2049,2026-06-05,Campus,Dessert,Brownie,Dine-In,Student,3,7.86,23.58,11,5.0,E-Wallet
+CF-2050,2026-08-14,Mall,Dessert,Muffin,Dine-In,Staff,2,7.12,14.24,8,,Cash
+CF-2051,2026-05-11,Mall,Dessert,Muffin,Dine-In,Staff,1,6.93,6.93,17,3.0,Card
+CF-2052,2026-06-28,Campus,Coffee,Americano,Delivery,Public,1,8.16,8.16,11,5.0,E-Wallet
+CF-2053,2026-06-01,Campus,Food,Chicken Sandwich,Dine-In,Student,2,14.93,29.86,6,3.0,Card
+CF-2054,2026-05-17,Mall,Coffee,Mocha,Takeaway,Staff,2,12.78,25.56,11,3.5,Cash
+CF-2055,2026-06-06,City Centre,Coffee,Cappuccino,Delivery,Student,1,11.03,11.03,14,5.0,Card
+CF-2056,2026-06-08,City Centre,Dessert,Cheesecake,Dine-In,Public,1,12.08,12.08,7,5.0,E-Wallet
+CF-2057,2026-07-09,City Centre,Dessert,Cheesecake,Dine-In,Student,4,12.26,49.04,10,4.0,Cash
+CF-2058,2026-08-24,Campus,Dessert,Brownie,Takeaway,Student,2,8.19,16.38,9,3.0,Card
+CF-2059,2026-06-14,Campus,Tea,Milk Tea,Takeaway,Student,1,8.92,8.92,11,3.0,Cash
+CF-2060,2026-08-07,City Centre,Tea,Green Tea,Delivery,Public,4,8.14,32.56,11,3.5,E-Wallet
+CF-2061,2026-08-17,Mall,Food,Croissant,Delivery,Staff,2,8.09,16.18,13,4.5,E-Wallet
+CF-2062,2026-05-18,Campus,Food,Pasta,Dine-In,Public,1,18.32,18.32,10,4.0,E-Wallet
+CF-2063,2026-08-04,Mall,Tea,Milk Tea,Dine-In,Public,1,9.09,9.09,10,4.5,E-Wallet
+CF-2064,2026-08-21,Campus,Tea,Lemon Tea,Delivery,Public,2,8.4,16.8,11,3.0,Cash
+CF-2065,2026-06-20,Mall,Coffee,Latte,Dine-In,Student,2,12.06,24.12,4,5.0,E-Wallet
+CF-2066,2026-07-27,Mall,Dessert,Cheesecake,Delivery,Student,12,11.87,142.44,8,5.0,Card
+CF-2067,2026-07-11,Campus,Tea,Lemon Tea,Delivery,Student,1,8.61,8.61,12,4.0,E-Wallet
+CF-2068,2026-05-29,City Centre,Tea,Milk Tea,Dine-In,Student,2,9.26,18.52,9,4.0,E-Wallet
+CF-2069,2026-08-08,Mall,Food,Pasta,Dine-In,Staff,3,18.22,54.66,10,5.0,Card
+CF-2070,2026-06-19,City Centre,Food,Croissant,Dine-In,Student,1,8.07,8.07,7,3.0,Card
+CF-2071,2026-07-29,City Centre,Food,Pasta,Takeaway,Student,1,18.52,18.52,10,3.5,Cash
+CF-2072,2026-06-13,City Centre,Dessert,Brownie,Delivery,Student,3,8.05,24.15,7,5.0,E-Wallet
+CF-2073,2026-08-13,Campus,Food,Pasta,Takeaway,Student,1,18.47,18.47,10,5.0,Cash
+CF-2074,2026-05-16,Campus,Dessert,Brownie,Dine-In,Student,2,8.17,16.34,11,4.5,Cash
+CF-2075,2026-05-25,Campus,Dessert,Brownie,Dine-In,Public,2,8.05,16.1,3,4.5,Card
+CF-2076,2026-05-25,Campus,Dessert,Brownie,Takeaway,Student,3,8.03,24.09,3,4.5,E-Wallet
+CF-2077,2026-06-10,Mall,Dessert,Cheesecake,Delivery,Public,1,12.36,12.36,11,3.0,Card
+CF-2078,2026-08-18,Mall,Food,Croissant,Dine-In,Student,3,8.03,24.09,8,4.5,Cash
+CF-2079,2026-06-14,Campus,Coffee,Cappuccino,Dine-In,Public,1,11.26,11.26,10,5.0,Cash
+CF-2080,2026-07-07,City Centre,Food,Nasi Lemak,Delivery,Staff,1,10.06,10.06,14,4.5,E-Wallet
+CF-2081,2026-05-24,Mall,Tea,Green Tea,Delivery,Public,1,8.09,8.09,14,3.5,Cash
+CF-2082,2026-08-09,Campus,Coffee,Mocha,Delivery,Staff,1,13.28,13.28,17,5.0,Cash
+CF-2083,2026-05-29,Campus,Tea,Green Tea,Takeaway,Public,3,8.08,24.24,7,4.5,Cash
+CF-2084,2026-07-23,City Centre,Dessert,Muffin,Delivery,Student,2,7.2,14.4,11,3.0,E-Wallet
+CF-2085,2026-05-13,Mall,Food,Croissant,Dine-In,Student,2,8.24,16.48,8,5.0,E-Wallet
+CF-2086,2026-06-10,Campus,Dessert,Muffin,Delivery,Public,2,7.02,14.04,20,5.0,Cash
+CF-2087,2026-07-17,Mall,Tea,Lemon Tea,Delivery,Public,2,8.72,17.44,15,4.5,E-Wallet
+CF-2088,2026-07-17,Mall,Tea,Lemon Tea,Takeaway,Student,3,8.61,25.83,6,4.0,E-Wallet
+CF-2089,2026-06-19,Mall,Tea,Milk Tea,Takeaway,Staff,1,9.17,9.17,8,,Cash
+CF-2090,2026-06-30,City Centre,Coffee,Latte,Delivery,Student,1,12.1,12.1,12,5.0,Cash
+CF-2091,2026-05-05,City Centre,Food,Croissant,Takeaway,Student,4,8.15,32.6,10,3.0,Cash
+CF-2092,2026-07-25,Campus,Food,Pasta,Delivery,,2,18.27,36.54,7,5.0,E-Wallet
+CF-2093,2026-05-07,Mall,Tea,Milk Tea,Delivery,Staff,3,9.27,27.81,10,3.5,Cash
+CF-2094,2026-05-11,City Centre,Tea,Milk Tea,Dine-In,Student,1,9.09,9.09,8,4.0,E-Wallet
+CF-2095,2026-06-11,Mall,Tea,Milk Tea,Delivery,Student,1,8.93,8.93,9,3.0,Cash
+CF-2096,2026-05-07,Campus,Food,Nasi Lemak,Dine-In,Staff,1,10.13,10.13,3,3.5,Cash
+CF-2097,2026-06-08,Campus,Dessert,Cheesecake,Dine-In,Student,3,12.28,36.84,4,3.5,Cash
+CF-2098,2026-06-09,City Centre,Coffee,Mocha,Dine-In,Student,1,13.24,13.24,9,5.0,Card
+CF-2099,2026-08-16,City Centre,Dessert,Muffin,Takeaway,Student,1,7.08,7.08,10,4.5,E-Wallet
+CF-2100,2026-07-09,Mall,Dessert,Brownie,Dine-In,Student,1,8.12,8.12,10,3.0,Card
+CF-2101,2026-06-07,Campus,Food,Pasta,Takeaway,Public,1,18.03,18.03,6,3.5,Cash
+CF-2102,2026-07-17,Mall,Dessert,Muffin,Dine-In,Public,1,7.01,7.01,9,5.0,Card
+CF-2103,2026-05-06,Campus,Food,Croissant,Dine-In,Student,1,8.19,8.19,16,5.0,Card
+CF-2104,2026-07-29,City Centre,Food,Croissant,Dine-In,Staff,3,7.86,23.58,9,4.0,Cash
+CF-2105,2026-05-05,Campus,Dessert,Cheesecake,Delivery,Staff,1,12.25,12.25,13,3.5,Cash
+CF-2106,2026-07-02,Mall,Tea,Lemon Tea,Dine-In,Student,2,8.4,16.8,35,4.5,E-Wallet
+CF-2107,2026-07-12,Mall,Coffee,Americano,Dine-In,Student,1,8.22,8.22,8,4.5,Card
+CF-2108,2026-06-24,Mall,Food,Croissant,Delivery,Public,1,7.97,7.97,13,3.0,E-Wallet
+CF-2109,2026-05-11,Campus,Food,Pasta,Delivery,Public,1,17.81,17.81,13,4.0,Cash
+CF-2110,2026-05-16,City Centre,Food,Croissant,Delivery,Public,2,8.02,16.04,10,5.0,E-Wallet
+CF-2111,2026-06-28,Campus,Food,Croissant,Takeaway,Staff,2,7.88,15.76,13,5.0,Card
+CF-2112,2026-05-24,Mall,Tea,Green Tea,Takeaway,Staff,2,7.94,15.88,3,3.0,Card
+CF-2113,2026-07-07,Mall,Tea,Milk Tea,Dine-In,Public,2,9.0,18.0,9,5.0,Cash
+CF-2114,2026-06-12,Mall,Food,Nasi Lemak,Takeaway,Staff,2,10.07,20.14,3,4.5,Card
+CF-2115,2026-06-24,Campus,Food,Chicken Sandwich,Dine-In,Student,1,14.86,14.86,7,5.0,Cash
+CF-2116,2026-06-04,Campus,Tea,Lemon Tea,Takeaway,Staff,3,8.59,25.77,4,5.0,Card
+CF-2117,2026-06-12,Campus,Coffee,Latte,Dine-In,Student,5,11.94,59.7,12,5.0,Cash
+CF-2118,2026-05-12,Mall,Food,Croissant,Dine-In,Public,1,8.07,8.07,9,4.5,Cash
+CF-2119,2026-06-07,Mall,Dessert,Muffin,Dine-In,Public,4,7.07,28.28,5,4.0,Cash
+CF-2120,2026-08-17,City Centre,Food,Nasi Lemak,Dine-In,Student,4,10.19,40.76,8,4.0,E-Wallet
+CF-2121,2026-06-04,Campus,Dessert,Cheesecake,Dine-In,Student,1,11.88,11.88,6,5.0,Card
+CF-2122,2026-07-25,City Centre,Dessert,Cheesecake,Dine-In,Student,5,11.97,59.85,4,3.5,Cash
+CF-2123,2026-06-04,Campus,Coffee,Mocha,Delivery,Student,12,13.05,156.6,14,3.0,Cash
+CF-2124,2026-05-26,City Centre,Tea,Milk Tea,Takeaway,Public,2,9.0,18.0,6,4.5,E-Wallet
+CF-2125,2026-07-07,Mall,Coffee,Americano,Dine-In,Student,1,8.16,8.16,5,3.0,Card
+CF-2126,2026-07-20,Mall,Food,Pasta,Dine-In,Staff,3,18.45,55.35,4,5.0,E-Wallet
+CF-2127,2026-06-10,Campus,Dessert,Muffin,Delivery,Student,2,7.09,14.18,13,4.0,E-Wallet
+CF-2128,2026-05-25,City Centre,Coffee,Latte,Dine-In,Student,2,12.31,24.62,8,3.0,E-Wallet
+CF-2129,2026-05-25,Campus,Tea,Milk Tea,Dine-In,Student,1,9.01,9.01,10,5.0,Cash
+CF-2130,2026-07-09,Campus,Food,Pasta,Dine-In,Student,3,18.2,54.6,8,4.5,Cash
+CF-2131,2026-06-12,Campus,Coffee,Cappuccino,Takeaway,Public,2,11.02,22.04,3,5.0,Card
+CF-2132,2026-06-27,Campus,Coffee,Latte,Takeaway,Staff,2,12.21,24.42,7,5.0,Cash
+CF-2133,2026-05-09,Campus,Coffee,Cappuccino,Takeaway,Student,1,10.79,10.79,14,4.5,E-Wallet
+CF-2134,2026-08-07,City Centre,Tea,Green Tea,Dine-In,Public,1,8.09,8.09,5,4.5,Cash
+CF-2135,2026-08-19,City Centre,Coffee,Latte,Takeaway,Student,4,12.28,49.12,4,4.0,Card
+CF-2136,2026-05-23,Campus,Tea,Milk Tea,Delivery,Public,1,9.01,9.01,16,3.5,E-Wallet
+CF-2137,2026-05-12,Mall,Coffee,Cappuccino,Dine-In,Student,5,10.99,54.95,9,4.0,Cash
+CF-2138,2026-07-26,Mall,Coffee,Cappuccino,Takeaway,Staff,1,11.09,11.09,4,4.0,E-Wallet
+CF-2139,2026-05-13,Campus,Tea,Lemon Tea,Dine-In,Staff,1,8.69,8.69,10,5.0,E-Wallet
+CF-2140,2026-08-06,City Centre,Coffee,Latte,Dine-In,Public,1,12.33,12.33,6,5.0,E-Wallet
+CF-2013,2026-06-11,Campus,Dessert,Brownie,Takeaway,Student,1,8.2,8.2,9,3.0,Cash
+CF-2071,2026-07-29,City Centre,Food,Pasta,Takeaway,Student,1,18.52,18.52,10,3.5,Cash
+CF-2100,2026-07-09,Mall,Dessert,Brownie,Dine-In,Student,1,8.12,8.12,10,3.0,Card

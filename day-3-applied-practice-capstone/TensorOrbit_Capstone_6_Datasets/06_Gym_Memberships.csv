@@ -1,0 +1,139 @@
+﻿Member_ID,Join_Date,Branch,Age_Group,Gender,Membership_Plan,Monthly_Fee,Visits_Last_Month,Personal_Training,Satisfaction_Score,Renewal_Status,Referral_Source
+GM-6001,2026-07-31,Penang,18-24,Female,Basic,80,0,Yes,4.6,Yes,Walk-In
+GM-6002,2026-07-23,Alor Setar,25-34,Female,Basic,80,0,No,3.5,Yes,University/Workplace
+GM-6003,2026-08-07,Alor Setar,35-44,Female,Standard,120,17,No,3.2,Yes,Friend
+GM-6004,2026-05-19,Alor Setar,18-24,Female,Basic,80,3,No,4.3,No,Social Media
+GM-6005,2026-07-04,Kuala Lumpur,18-24,Male,Basic,80,12,Yes,5,Yes,Social Media
+GM-6006,2026-06-05,Alor Setar,18-24,Male,Premium,180,6,No,4.6,Yes,Friend
+GM-6007,2026-05-10,Alor Setar,18-24,Male,Premium,180,15,Yes,3.8,Yes,Friend
+GM-6008,2026-05-16,Kuala Lumpur,35-44,Female,Standard,120,9,No,4.2,No,Social Media
+GM-6009,2026-07-16,Alor Setar,25-34,Female,Standard,120,8,Yes,3.6,Yes,Walk-In
+GM-6010,2026-08-12,Penang,25-34,Female,Basic,80,7,No,4.3,Yes,University/Workplace
+GM-6011,2026-05-29,Kuala Lumpur,25-34,Female,Standard,120,15,No,3.6,Yes,University/Workplace
+GM-6012,2026-08-18,Penang,18-24,Female,Basic,80,11,No,3.5,Yes,University/Workplace
+GM-6013,2026-07-15,Alor Setar,45+,Male,Standard,120,13,No,4.5,Yes,University/Workplace
+GM-6014,2026-07-13,Penang,25-34,Female,Standard,120,7,No,4.3,Yes,Walk-In
+GM-6015,2026-07-12,Kuala Lumpur,25-34,Male,Standard,120,3,No,2.7,No,Walk-In
+GM-6016,2026-07-27,Penang,25-34,Female,Basic,80,12,No,4.1,Yes,Walk-In
+GM-6017,2026-06-03,Kuala Lumpur,35-44,Female,Basic,80,5,No,3.8,Yes,Walk-In
+GM-6018,2026-05-12,Alor Setar,18-24,Female,Basic,80,3,No,,Yes,Friend
+GM-6019,2026-06-06,Penang,25-34,Male,Premium,180,21,No,3.8,Yes,Social Media
+GM-6020,2026-06-01,Kuala Lumpur,18-24,Female,Premium,180,10,No,3.1,Yes,Walk-In
+GM-6021,2026-06-03,Alor Setar,25-34,Male,Premium,180,14,No,3.3,No,University/Workplace
+GM-6022,2026-05-06,Kuala Lumpur,25-34,Female,Standard,120,8,Yes,3.3,No,Walk-In
+GM-6023,2026-08-01,Kuala Lumpur,25-34,Male,Basic,80,8,No,3.3,No,Social Media
+GM-6024,2026-07-11,Penang,25-34,Male,Basic,80,35,No,3.9,Yes,University/Workplace
+GM-6025,2026-06-03,Kuala Lumpur,25-34,Female,Basic,80,11,No,1.7,Yes,Social Media
+GM-6026,2026-06-10,Kuala Lumpur,25-34,Female,Basic,80,6,No,4.4,No,Friend
+GM-6027,2026-08-17,Kuala Lumpur,18-24,Male,Premium,180,20,No,3.2,Yes,University/Workplace
+GM-6028,2026-08-24,Penang,18-24,Female,Standard,120,10,Yes,4.2,Yes,Friend
+GM-6029,2026-07-11,Kuala Lumpur,35-44,Male,Basic,80,10,No,4.3,Yes,Friend
+GM-6030,2026-06-09,Kuala Lumpur,18-24,Male,Standard,120,18,No,3.9,Yes,Walk-In
+GM-6031,2026-07-15,Penang,35-44,Male,Standard,120,8,No,2.6,No,Walk-In
+GM-6032,2026-06-24,Alor Setar,18-24,Male,Basic,80,5,Yes,3.6,Yes,Walk-In
+GM-6033,2026-05-26,Kuala Lumpur,18-24,Male,Premium,180,14,No,2.8,Yes,University/Workplace
+GM-6034,2026-06-17,Alor Setar,45+,Female,Standard,120,9,No,4.2,No,Friend
+GM-6035,2026-06-16,Penang,18-24,Male,Basic,80,1,No,3.5,Yes,University/Workplace
+GM-6036,2026-07-01,Alor Setar,18-24,Male,Standard,120,13,No,1.7,Yes,Social Media
+GM-6037,2026-08-18,Kuala Lumpur,25-34,Female,Basic,80,13,No,3.7,No,University/Workplace
+GM-6038,2026-07-18,Kuala Lumpur,18-24,Female,Premium,180,7,No,4.6,Yes,Friend
+GM-6039,2026-07-30,Penang,25-34,Female,Standard,120,8,No,3.5,No,Friend
+GM-6040,2026-08-21,Kuala Lumpur,25-34,Female,Standard,120,5,Yes,4.4,No,Walk-In
+GM-6041,2026-06-19,Penang,18-24,Female,Premium,180,12,No,5,Yes,Friend
+GM-6042,2026-05-23,Kuala Lumpur,18-24,Male,Basic,80,1,Yes,3.2,No,Social Media
+GM-6043,2026-07-03,Kuala Lumpur,18-24,Male,Basic,80,3,No,3.8,Yes,
+GM-6044,2026-07-13,Alor Setar,25-34,Female,Standard,120,10,No,2.8,Yes,Walk-In
+GM-6045,2026-05-12,Kuala Lumpur,25-34,Male,Basic,80,6,No,3.2,No,Social Media
+GM-6046,2026-07-23,Penang,18-24,Male,Basic,80,4,Yes,3.4,Yes,University/Workplace
+GM-6047,2026-06-17,Kuala Lumpur,18-24,Female,Standard,120,4,No,3.1,Yes,Social Media
+GM-6048,2026-05-21,Alor Setar,18-24,Female,Standard,120,11,No,3.4,Yes,Walk-In
+GM-6049,2026-05-12,Kuala Lumpur,18-24,Female,Premium,180,5,No,3.2,No,Social Media
+GM-6050,2026-07-07,Penang,25-34,Male,Basic,80,14,Yes,4.0,Yes,University/Workplace
+GM-6051,2026-05-28,Kuala Lumpur,18-24,Male,Standard,120,1,Yes,4.2,Yes,University/Workplace
+GM-6052,2026-07-09,Kuala Lumpur,25-34,Male,Basic,80,0,No,3.1,Yes,University/Workplace
+GM-6053,2026-05-12,Kuala Lumpur,18-24,Female,Premium,180,14,No,3.9,Yes,Friend
+GM-6054,2026-05-12,Penang,18-24,Male,Basic,80,13,No,2.8,Yes,Friend
+GM-6055,2026-08-13,Alor Setar,18-24,Female,Basic,80,10,No,4.4,Yes,Friend
+GM-6056,2026-06-09,Kuala Lumpur,35-44,Female,Standard,120,10,No,3.1,No,Friend
+GM-6057,2026-05-02,Penang,18-24,Male,Standard,120,13,Yes,3.7,Yes,University/Workplace
+GM-6058,2026-06-01,Penang,45+,Female,Standard,120,5,No,5,No,Social Media
+GM-6059,2026-05-27,Penang,35-44,Male,Premium,180,10,No,3.2,Yes,Social Media
+GM-6060,2026-05-15,Penang,18-24,Female,Standard,120,13,No,,Yes,Social Media
+GM-6061,2026-07-31,Kuala Lumpur,25-34,Female,Standard,120,8,No,3.1,Yes,Friend
+GM-6062,2026-08-11,Penang,18-24,Female,Premium,180,13,No,4.4,Yes,Friend
+GM-6063,2026-05-17,Alor Setar,18-24,Male,Premium,180,13,No,4.5,Yes,University/Workplace
+GM-6064,2026-05-04,Alor Setar,25-34,Male,Basic,80,4,No,3.6,Yes,Friend
+GM-6065,2026-06-18,Kuala Lumpur,18-24,Female,Basic,80,0,No,3.2,Yes,Friend
+GM-6066,2026-05-30,Alor Setar,25-34,Female,Standard,120,13,No,3.4,Yes,Walk-In
+GM-6067,2026-08-05,Penang,35-44,Female,Standard,120,7,Yes,4.1,Yes,Walk-In
+GM-6068,2026-07-25,Kuala Lumpur,45+,Female,Premium,180,17,No,2.3,No,Social Media
+GM-6069,2026-05-19,Penang,35-44,Female,Standard,120,18,Yes,1.1,Yes,Walk-In
+GM-6070,2026-07-31,Kuala Lumpur,25-34,Female,Basic,80,9,No,4.2,No,Walk-In
+GM-6071,2026-08-11,Kuala Lumpur,25-34,Female,Premium,180,6,No,1.9,Yes,Walk-In
+GM-6072,2026-07-24,Kuala Lumpur,18-24,Male,Standard,120,9,No,3.5,Yes,Walk-In
+GM-6073,2026-05-11,Kuala Lumpur,25-34,Female,Standard,120,13,No,2.8,No,University/Workplace
+GM-6074,2026-08-10,Penang,25-34,Male,Standard,120,10,No,3.3,Yes,Social Media
+GM-6075,2026-05-16,Kuala Lumpur,18-24,Female,Standard,120,11,No,2.7,Yes,Social Media
+GM-6076,2026-08-13,Alor Setar,18-24,Female,Basic,80,11,No,3.9,No,Social Media
+GM-6077,2026-06-15,Penang,18-24,Female,Basic,80,4,No,4.4,Yes,University/Workplace
+GM-6078,2026-07-03,Alor Setar,45+,Male,Premium,180,13,Yes,3.5,Yes,Walk-In
+GM-6079,2026-07-04,Kuala Lumpur,25-34,Male,Basic,80,2,Yes,5,No,Walk-In
+GM-6080,2026-08-13,Kuala Lumpur,25-34,Male,Basic,80,10,No,3.4,Yes,Friend
+GM-6081,2026-08-09,Kuala Lumpur,18-24,Female,Standard,120,4,No,4.9,Yes,Friend
+GM-6082,2026-05-12,Alor Setar,18-24,Female,Basic,80,7,No,4.5,Yes,Social Media
+GM-6083,2026-07-08,Kuala Lumpur,35-44,Female,Premium,180,11,Yes,4.5,Yes,University/Workplace
+GM-6084,2026-07-26,Kuala Lumpur,25-34,Female,Standard,120,12,No,3.8,Yes,Walk-In
+GM-6085,2026-06-03,Penang,25-34,Male,Premium,180,13,No,4.4,Yes,Social Media
+GM-6086,2026-07-22,Penang,18-24,Male,Premium,180,9,No,3.5,Yes,Social Media
+GM-6087,2026-05-29,Penang,25-34,Male,Basic,80,10,No,3.6,Yes,Friend
+GM-6088,2026-06-16,Kuala Lumpur,35-44,Male,Basic,80,16,No,4.5,Yes,
+GM-6089,2026-06-26,Alor Setar,25-34,Female,Basic,80,6,No,3.4,Yes,Social Media
+GM-6090,2026-05-09,Penang,25-34,Female,Standard,120,14,No,3.8,Yes,Friend
+GM-6091,2026-06-08,Kuala Lumpur,18-24,Female,Basic,80,9,No,3.4,No,Friend
+GM-6092,2026-08-05,Penang,25-34,Male,Basic,80,10,No,2.5,Yes,Walk-In
+GM-6093,2026-08-13,Kuala Lumpur,25-34,Female,Standard,120,8,Yes,3.6,Yes,Friend
+GM-6094,2026-06-26,Penang,25-34,Male,Basic,80,2,No,4.1,Yes,Social Media
+GM-6095,2026-05-28,Penang,25-34,Male,Basic,80,4,No,3.9,Yes,Walk-In
+GM-6096,2026-07-18,Kuala Lumpur,25-34,Male,Basic,80,4,No,3.9,No,Friend
+GM-6097,2026-08-18,Kuala Lumpur,35-44,Male,Standard,120,11,Yes,3.9,Yes,Walk-In
+GM-6098,2026-07-16,Penang,18-24,Male,Basic,80,1,Yes,5,No,Friend
+GM-6099,2026-08-24,Penang,25-34,Female,Standard,120,10,Yes,3.9,Yes,University/Workplace
+GM-6100,2026-07-21,Kuala Lumpur,45+,Male,Standard,120,12,No,3.5,Yes,Social Media
+GM-6101,2026-05-05,Kuala Lumpur,45+,Female,Basic,80,12,No,3.6,Yes,Walk-In
+GM-6102,2026-05-30,Penang,25-34,Female,Premium,180,16,Yes,4.9,Yes,Walk-In
+GM-6103,2026-08-12,Kuala Lumpur,18-24,Male,Standard,120,14,No,2.3,Yes,Social Media
+GM-6104,2026-07-28,Kuala Lumpur,35-44,Male,Premium,180,17,Yes,,Yes,Walk-In
+GM-6105,2026-08-21,Alor Setar,35-44,Male,Standard,120,18,No,3.4,Yes,Friend
+GM-6106,2026-07-09,Kuala Lumpur,25-34,Female,Basic,80,4,No,3.6,No,Walk-In
+GM-6107,2026-07-02,Penang,35-44,Female,Premium,180,10,No,3.9,Yes,Walk-In
+GM-6108,2026-05-25,Penang,35-44,Female,Basic,80,2,Yes,2.7,Yes,Friend
+GM-6109,2026-08-18,Kuala Lumpur,25-34,Male,Basic,80,13,No,3.7,No,University/Workplace
+GM-6110,2026-05-20,Penang,25-34,Female,Standard,120,11,Yes,3.6,Yes,Social Media
+GM-6111,2026-05-11,Alor Setar,18-24,Male,Basic,80,35,No,4.5,Yes,Social Media
+GM-6112,2026-06-04,Alor Setar,18-24,Male,Basic,80,2,No,2.1,No,University/Workplace
+GM-6113,2026-08-14,Kuala Lumpur,25-34,Male,Basic,80,5,Yes,5,No,University/Workplace
+GM-6114,2026-08-07,Alor Setar,18-24,Female,Basic,80,8,No,3.7,No,Friend
+GM-6115,2026-05-03,Penang,25-34,Male,Basic,80,21,No,3.9,Yes,Social Media
+GM-6116,2026-07-08,Kuala Lumpur,18-24,Male,Basic,80,13,Yes,4.8,Yes,Friend
+GM-6117,2026-08-06,Alor Setar,25-34,Male,Standard,120,5,No,3.8,Yes,Social Media
+GM-6118,2026-07-13,Kuala Lumpur,35-44,Male,Standard,120,7,Yes,4.1,Yes,Friend
+GM-6119,2026-05-26,Kuala Lumpur,45+,Female,Basic,80,9,Yes,5,Yes,Walk-In
+GM-6120,2026-08-19,Kuala Lumpur,25-34,Male,Standard,120,10,No,5,Yes,University/Workplace
+GM-6121,2026-05-02,Kuala Lumpur,25-34,Female,Premium,180,13,No,3.5,Yes,Friend
+GM-6122,2026-08-21,Kuala Lumpur,18-24,Male,Standard,120,7,Yes,2.9,Yes,Social Media
+GM-6123,2026-06-13,Kuala Lumpur,18-24,Female,Basic,80,0,No,3.6,No,University/Workplace
+GM-6124,2026-05-14,Alor Setar,25-34,Male,Standard,120,10,No,4.2,Yes,Social Media
+GM-6125,2026-08-16,Kuala Lumpur,35-44,Male,Standard,120,4,No,3.3,No,Walk-In
+GM-6126,2026-06-06,Alor Setar,25-34,Male,Standard,120,13,No,4.0,Yes,University/Workplace
+GM-6127,2026-05-06,Alor Setar,18-24,Male,Premium,180,11,No,4.1,Yes,Walk-In
+GM-6128,2026-07-09,Kuala Lumpur,18-24,Female,Basic,80,10,No,3.0,Yes,Friend
+GM-6129,2026-07-02,Penang,18-24,Female,Basic,80,2,No,4.6,Yes,Walk-In
+GM-6130,2026-06-07,Kuala Lumpur,25-34,Male,Basic,80,6,No,3.5,Yes,Walk-In
+GM-6131,2026-06-12,Kuala Lumpur,18-24,Female,Basic,80,5,No,3.1,No,Social Media
+GM-6132,2026-05-17,Alor Setar,25-34,Male,Premium,180,11,Yes,4.5,Yes,Friend
+GM-6133,2026-07-19,Kuala Lumpur,25-34,Female,Basic,80,13,Yes,3.8,No,Walk-In
+GM-6134,2026-06-03,Penang,25-34,Female,Basic,80,9,Yes,3.5,No,Walk-In
+GM-6135,2026-07-10,Kuala Lumpur,18-24,Male,Standard,120,12,No,1.7,No,Social Media
+GM-6014,2026-07-13,Penang,25-34,Female,Standard,120,7,No,4.3,Yes,Walk-In
+GM-6072,2026-07-24,Kuala Lumpur,18-24,Male,Standard,120,9,No,3.5,Yes,Walk-In
+GM-6120,2026-08-19,Kuala Lumpur,25-34,Male,Standard,120,10,No,5,Yes,University/Workplace

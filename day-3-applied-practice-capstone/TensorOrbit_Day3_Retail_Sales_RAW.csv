@@ -1,0 +1,124 @@
+﻿Order_ID,Order_Date,Region,Category,Product,Customer_Type,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Method
+ORD-1001,2026-06-17,East Malaysia,Technology,Smartphone,Small Business,1,1779.13,0.05,1690.17,1343.48,346.69,Online Banking
+ORD-1002,2026-08-05,Central,Office Supplies,Notebook Pack,Individual,4,28.81,0.0,115.24,56.0,59.24,Cash
+ORD-1003,2026-08-12,Central,Technology,Laptop,Individual,3,2820.33,0.05,8037.94,6724.26,1313.68,E-Wallet
+ORD-1004,2026-08-15,East Malaysia,Furniture,Study Desk,Individual,3,916.97,0.05,2613.36,1836.03,777.33,Cash
+ORD-1005,2026-06-15,Southern,Technology,Wireless Headphones,Individual,2,424.37,0.1,763.87,520.42,243.45,Card
+ORD-1006,2026-07-18,Northern,Furniture,Office Chair,Individual,6,641.44,0.0,3848.64,2589.3,1259.34,E-Wallet
+ORD-1007,2026-08-03,Southern,Furniture,Desk Lamp,Small Business,2,157.68,0.0,315.36,167.32,148.04,Online Banking
+ORD-1008,2026-08-20,Central,Office Supplies,Printer Ink,,3,93.1,0.0,279.3,177.3,102.0,Cash
+ORD-1009,2026-07-27,Central,Technology,Tablet,Individual,3,1272.87,0.1,3436.75,2748.48,688.27,Card
+ORD-1010,2026-07-08,Central,Furniture,Bookshelf,Small Business,5,479.02,0.05,2275.34,1531.2,744.14,Online Banking
+ORD-1011,2026-06-13,Northern,Office Supplies,Pen Set,Student,1,18.05,0.05,17.15,8.1,9.05,Cash
+ORD-1012,2026-06-09,Central,Furniture,Study Desk,Individual,3,,0.05,2513.44,1868.7,644.74,Online Banking
+ORD-1013,2026-06-14,Southern,Furniture,Office Chair,Student,4,652.23,0.05,2478.47,1723.44,755.03,Card
+ORD-1014,2026-06-11,Southern,Office Supplies,Printer Paper,Individual,3,31.87,0.15,81.27,53.28,27.99,E-Wallet
+ORD-1015,2026-07-05,Southern,Technology,Tablet,Student,5,1284.32,0.15,5458.36,4553.9,904.46,Card
+ORD-1016,2026-07-28,Central,Technology,Wireless Headphones,Individual,4,427.4,0.15,1453.16,1020.44,432.72,Cash
+ORD-1017,2026-06-23,East Malaysia,Furniture,Office Chair,Student,2,657.37,0.1,1183.27,861.34,321.93,E-Wallet
+ORD-1018,2026-07-29,Central,Technology,Tablet,Small Business,5,1249.84,0.15,5311.82,4549.85,761.97,Cash
+ORD-1019,2026-07-24,Central,Furniture,Study Desk,Individual,4,923.23,0.0,3692.92,2446.32,1246.6,Cash
+ORD-1020,2026-06-19,East Coast,Office Supplies,Printer Paper,Small Business,1,31.21,0.05,29.65,17.8,11.85,E-Wallet
+ORD-1021,2026-07-04,Northern,Technology,Smartphone,Student,1,1829.13,0.0,1829.13,1323.41,505.72,Card
+ORD-1022,2026-06-19,Central,Office Supplies,Pen Set,Small Business,2,17.55,0.1,31.59,15.8,15.79,Card
+ORD-1023,2026-08-17,Central,Office Supplies,Notebook Pack,Student,3,27.29,,69.59,42.69,26.9,Online Banking
+ORD-1024,2026-07-08,Northern,Office Supplies,Printer Ink,Individual,1,92.26,0.0,92.26,58.26,34.0,Cash
+ORD-1025,2026-06-04,East Malaysia,Technology,Laptop,Individual,4,2817.29,0.05,10705.7,8832.16,1873.54,Online Banking
+ORD-1026,2026-08-15,Central,Technology,Tablet,Individual,1,1236.26,0.1,1112.63,904.31,208.32,Cash
+ORD-1027,2026-08-21,Southern,Technology,Tablet,Student,4,1281.91,0.15,4358.49,3572.92,785.57,Online Banking
+ORD-1028,2026-08-08,Central,Furniture,Office Chair,Small Business,8,644.16,0.15,4380.29,3400.16,980.13,Online Banking
+ORD-1029,2026-07-17,Central,Technology,Laptop,Student,1,2795.38,0.05,2655.61,2170.11,485.5,Online Banking
+ORD-1030,2026-08-03,East Malaysia,Furniture,Office Chair,Individual,2,637.25,0.1,1147.05,871.06,275.99,Card
+ORD-1031,2026-06-09,Southern,Furniture,Bookshelf,Corporate,8,493.86,0.05,3753.34,2496.0,1257.34,Cash
+ORD-1032,2026-07-05,East Malaysia,Furniture,Bookshelf,Student,1,486.83,0.05,462.49,309.02,153.47,Online Banking
+ORD-1033,2026-07-25,Northern,Office Supplies,Notebook Pack,Small Business,4,27.94,0.0,111.76,56.56,55.2,Cash
+ORD-1034,2026-08-08,Southern,Furniture,Office Chair,Small Business,1,631.19,0.0,631.19,430.35,200.84,Online Banking
+ORD-1035,2026-07-08,East Malaysia,Furniture,Office Chair,Corporate,5,666.08,0.1,2997.36,2187.65,809.71,E-Wallet
+ORD-1036,2026-06-18,East Malaysia,Office Supplies,Pen Set,Individual,3,18.43,0.15,47.0,23.67,23.33,Card
+ORD-1037,2026-06-05,Southern,Furniture,Office Chair,Individual,25,662.76,0.0,16569.0,10569.0,6000.0,Cash
+ORD-1038,2026-06-26,East Malaysia,Office Supplies,Printer Paper,Corporate,1,31.85,0.0,31.85,18.1,13.75,Card
+ORD-1039,2026-06-01,Southern,Technology,Tablet,Individual,2,1267.73,0.05,2408.69,1828.62,580.07,Cash
+ORD-1040,2026-06-02,East Coast,Office Supplies,Notebook Pack,Student,2,27.24,0.0,54.48,27.46,27.02,E-Wallet
+ORD-1041,2026-07-29,Southern,Office Supplies,Printer Paper,Small Business,6,31.84,0.0,191.04,109.5,81.54,E-Wallet
+ORD-1042,2026-08-14,Central,Technology,Laptop,Corporate,5,2849.66,0.0,14248.3,10842.9,3405.4,Card
+ORD-1043,2026-08-15,Southern,Office Supplies,Printer Paper,Student,1,31.37,0.15,26.66,18.13,8.53,Online Banking
+ORD-1044,2026-06-15,East Coast,Office Supplies,Notebook Pack,Individual,1,28.14,0.0,28.14,14.17,13.97,Cash
+ORD-1045,2026-07-18,Central,Office Supplies,Printer Paper,Individual,2,32.6,0.0,65.2,36.3,28.9,Cash
+ORD-1046,2026-06-17,Central,Office Supplies,Printer Paper,Individual,4,32.12,0.0,128.48,73.36,55.12,Online Banking
+ORD-1047,2026-07-15,Northern,Technology,Laptop,Student,4,2791.05,0.05,10605.99,8642.76,1963.23,Online Banking
+ORD-1048,2026-07-19,Central,Furniture,Study Desk,Corporate,2,915.64,0.1,1648.15,1220.38,427.77,Cash
+ORD-1049,2026-06-19,Southern,Office Supplies,Notebook Pack,Individual,5,,0.05,136.56,68.65,67.91,Card
+ORD-1050,2026-06-19,East Malaysia,Office Supplies,Pen Set,Corporate,3,18.48,0.15,47.12,24.12,23.0,Cash
+ORD-1051,2026-08-05,Central,Office Supplies,Printer Paper,Student,2,32.6,0.15,55.42,36.1,19.32,Cash
+ORD-1052,2026-07-14,Southern,Furniture,Office Chair,Individual,2,643.72,0.0,1287.44,848.08,439.36,E-Wallet
+ORD-1053,2026-06-11,Southern,Furniture,Desk Lamp,Small Business,2,164.09,0.15,278.95,171.9,107.05,E-Wallet
+ORD-1054,2026-08-17,Central,Office Supplies,Notebook Pack,Individual,1,27.87,0.0,27.87,14.22,13.65,Card
+ORD-1055,2026-06-23,East Coast,Furniture,Office Chair,Student,1,666.65,0.15,566.65,438.14,128.51,Online Banking
+ORD-1056,2026-06-07,Central,Office Supplies,Printer Ink,,2,93.41,0.15,158.8,115.66,43.14,Cash
+ORD-1057,2026-06-17,East Malaysia,Office Supplies,Printer Ink,Corporate,3,93.2,0.05,265.62,176.55,89.07,E-Wallet
+ORD-1058,2026-08-19,Central,Furniture,Study Desk,Small Business,2,913.37,0.15,1552.73,1237.82,314.91,Online Banking
+ORD-1059,2026-08-21,East Malaysia,Office Supplies,Notebook Pack,Corporate,10,27.22,0.0,272.2,140.9,131.3,Card
+ORD-1060,2026-08-21,East Coast,Office Supplies,Pen Set,Student,3,17.6,0.05,50.16,23.52,26.64,Cash
+ORD-1061,2026-06-25,East Coast,Technology,Wireless Headphones,Student,3,412.23,0.1,1113.02,765.57,347.45,Card
+ORD-1062,2026-07-26,Central,Technology,Laptop,Student,4,2803.76,0.1,10093.54,8684.6,1408.94,Cash
+ORD-1063,2026-07-05,East Coast,Technology,Tablet,Individual,6,1285.52,0.0,7713.12,5479.68,2233.44,Online Banking
+ORD-1064,2026-06-23,Central,Technology,Tablet,Small Business,1,1234.56,,1234.56,889.25,345.31,Cash
+ORD-1065,2026-07-18,Central,Technology,Laptop,Small Business,4,2727.96,0.0,10911.84,8631.04,2280.8,Card
+ORD-1066,2026-06-29,East Coast,Furniture,Bookshelf,Individual,3,482.2,0.0,1446.6,943.98,502.62,E-Wallet
+ORD-1067,2026-06-18,Northern,Technology,Laptop,Small Business,1,2748.54,0.0,2748.54,2163.38,585.16,Card
+ORD-1068,2026-06-06,Southern,Furniture,Office Chair,Student,2,650.32,0.0,1300.64,870.68,429.96,Online Banking
+ORD-1069,2026-07-11,Northern,Office Supplies,Notebook Pack,Student,2,28.54,0.0,57.08,28.08,29.0,Card
+ORD-1070,2026-08-02,Central,Office Supplies,Printer Paper,Small Business,2,32.64,0.0,65.28,36.5,28.78,E-Wallet
+ORD-1071,2026-06-29,Northern,Office Supplies,Printer Ink,Corporate,4,95.93,0.05,364.53,234.32,130.21,Cash
+ORD-1072,2026-06-29,Central,Technology,Laptop,Small Business,1,2822.04,0.05,2680.94,2189.06,491.88,Card
+ORD-1073,2026-06-07,East Malaysia,Technology,Tablet,Individual,2,1220.77,0.1,2197.39,1770.48,426.91,Cash
+ORD-1074,2026-08-08,Central,Technology,Smartphone,Student,2,1770.41,0.0,3540.82,2682.86,857.96,Cash
+ORD-1075,2026-06-21,Northern,Office Supplies,Printer Paper,Corporate,5,31.34,0.1,141.03,88.7,52.33,E-Wallet
+ORD-1076,2026-08-08,East Coast,Furniture,Desk Lamp,Small Business,1,162.18,0.0,162.18,83.38,78.8,Cash
+ORD-1077,2026-08-01,Central,Furniture,Study Desk,Individual,1,874.61,0.1,787.15,629.11,158.04,Online Banking
+ORD-1078,2026-07-15,Central,Office Supplies,Printer Paper,Small Business,4,,0.05,121.9,70.76,51.14,Cash
+ORD-1079,2026-07-29,Central,Furniture,Study Desk,Corporate,8,920.17,0.1,6625.22,4864.0,1761.22,E-Wallet
+ORD-1080,2026-06-11,East Malaysia,Technology,Tablet,Corporate,1,1284.71,0.05,1220.47,883.82,336.65,Online Banking
+ORD-1081,2026-06-15,Northern,Furniture,Bookshelf,Individual,2,475.5,0.15,808.35,615.52,192.83,Online Banking
+ORD-1082,2026-08-02,Central,Technology,Tablet,Individual,9,1268.95,0.15,9707.47,7972.47,1735.0,Online Banking
+ORD-1083,2026-07-21,Central,Furniture,Bookshelf,Corporate,4,485.05,0.1,1746.18,1250.64,495.54,Cash
+ORD-1084,2026-06-01,Central,Furniture,Bookshelf,Small Business,5,488.73,0.0,2443.65,1556.1,887.55,E-Wallet
+ORD-1085,2026-08-12,East Malaysia,Furniture,Bookshelf,Individual,1,479.52,0.05,455.54,308.04,147.5,E-Wallet
+ORD-1086,2026-07-11,East Coast,Furniture,Study Desk,Individual,4,910.4,0.05,3459.52,2445.32,1014.2,Cash
+ORD-1087,2026-08-20,Central,Office Supplies,Printer Ink,Individual,2,97.38,0.05,185.02,115.46,69.56,Card
+ORD-1088,2026-08-21,East Malaysia,Technology,Wireless Headphones,Corporate,7,409.45,0.0,2866.15,1824.76,1041.39,E-Wallet
+ORD-1089,2026-06-01,Central,Technology,Tablet,Corporate,2,1273.41,0.05,2419.48,1793.92,625.56,Online Banking
+ORD-1090,2026-06-10,Southern,Technology,Smartphone,Student,1,1790.62,0.15,1522.03,1370.79,151.24,E-Wallet
+ORD-1091,2026-06-03,Southern,Office Supplies,Printer Ink,Individual,3,93.67,0.15,238.86,175.26,63.6,Card
+ORD-1092,2026-06-17,East Malaysia,Technology,Tablet,Corporate,6,1247.67,0.05,7111.72,5406.84,1704.88,Online Banking
+ORD-1093,2026-08-05,East Coast,Office Supplies,Notebook Pack,Student,1,27.68,0.15,23.53,13.73,9.8,Online Banking
+ORD-1094,2026-08-04,Central,Office Supplies,Printer Paper,Corporate,30,32.06,0.0,961.8,547.5,414.3,Cash
+ORD-1095,2026-06-07,East Coast,Office Supplies,Pen Set,Individual,2,17.54,0.0,35.08,15.82,19.26,E-Wallet
+ORD-1096,2026-08-04,Northern,Technology,Tablet,Student,1,1229.98,0.05,1168.48,898.1,270.38,E-Wallet
+ORD-1097,2026-07-17,Central,Technology,Laptop,Small Business,1,2760.12,0.1,2484.11,2199.09,285.02,E-Wallet
+ORD-1098,2026-06-10,East Malaysia,Furniture,Study Desk,Corporate,7,913.93,0.05,6077.63,4348.61,1729.02,Card
+ORD-1099,2026-06-19,East Malaysia,Furniture,Bookshelf,Corporate,7,478.83,0.15,2849.04,2142.63,706.41,E-Wallet
+ORD-1100,2026-07-30,Central,Furniture,Study Desk,Individual,4,892.23,0.15,3033.58,2527.96,505.62,Card
+ORD-1101,2026-08-14,Central,Office Supplies,Printer Paper,Individual,8,32.83,0.0,262.64,146.72,115.92,Online Banking
+ORD-1102,2026-06-14,Southern,Furniture,Bookshelf,,1,478.66,0.0,478.66,304.36,174.3,Online Banking
+ORD-1103,2026-07-21,Central,Furniture,Study Desk,Small Business,4,921.28,0.0,3685.12,2475.24,1209.88,E-Wallet
+ORD-1104,2026-07-23,East Coast,Technology,Tablet,Corporate,1,1225.44,0.0,1225.44,884.37,341.07,Card
+ORD-1105,2026-07-12,East Malaysia,Office Supplies,Printer Paper,Individual,6,32.29,0.05,184.05,109.14,74.91,Cash
+ORD-1106,2026-08-03,Central,Technology,Tablet,Individual,1,1216.33,0.0,1216.33,900.15,316.18,Online Banking
+ORD-1107,2026-06-03,Northern,Office Supplies,Printer Ink,Student,4,92.82,0.0,371.28,233.76,137.52,Online Banking
+ORD-1108,2026-07-23,East Malaysia,Furniture,Bookshelf,Small Business,5,476.25,0.05,2262.19,1557.8,704.39,Cash
+ORD-1109,2026-07-18,Central,Furniture,Study Desk,Individual,5,887.07,0.05,4213.58,3051.8,1161.78,Card
+ORD-1110,2026-07-06,East Coast,Office Supplies,Printer Paper,Individual,4,31.91,,121.26,72.68,48.58,E-Wallet
+ORD-1111,2026-08-01,Southern,Office Supplies,Printer Ink,Student,1,94.6,0.05,89.87,57.23,32.64,Online Banking
+ORD-1112,2026-06-28,Central,Furniture,Study Desk,Corporate,5,907.36,0.15,3856.28,3087.15,769.13,E-Wallet
+ORD-1113,2026-07-28,East Malaysia,Technology,Wireless Headphones,Student,1,427.92,0.05,406.52,255.8,150.72,Online Banking
+ORD-1114,2026-06-22,Northern,Technology,Laptop,Student,2,2825.56,0.0,5651.12,4432.64,1218.48,Online Banking
+ORD-1115,2026-06-20,East Malaysia,Technology,Smartphone,Small Business,2,1838.0,0.1,3308.4,2647.52,660.88,E-Wallet
+ORD-1116,2026-08-13,East Malaysia,Technology,Laptop,Corporate,6,2823.35,0.15,14399.08,12980.1,1418.98,Card
+ORD-1117,2026-07-15,East Malaysia,Furniture,Office Chair,,1,653.26,0.1,587.93,430.16,157.77,E-Wallet
+ORD-1118,2026-08-01,Northern,Office Supplies,Printer Ink,Individual,1,92.91,0.0,92.91,58.32,34.59,Online Banking
+ORD-1119,2026-07-18,Northern,Technology,Smartphone,Individual,2,1825.35,0.15,3103.09,2733.48,369.61,E-Wallet
+ORD-1120,2026-07-26,Central,Furniture,Office Chair,Individual,5,651.53,0.0,3257.65,2123.4,1134.25,Card
+ORD-1015,2026-07-05,Southern,Technology,Tablet,Student,5,1284.32,0.15,5458.36,4553.9,904.46,Card
+ORD-1053,2026-06-11,Southern,Furniture,Desk Lamp,Small Business,2,164.09,0.15,278.95,171.9,107.05,E-Wallet
+ORD-1089,2026-06-01,Central,Technology,Tablet,Corporate,2,1273.41,0.05,2419.48,1793.92,625.56,Online Banking

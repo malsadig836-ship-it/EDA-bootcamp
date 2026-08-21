@@ -1,0 +1,164 @@
+﻿Order_ID,Order_Date,Region,Category,Product,Customer_Segment,Quantity,Unit_Price,Discount,Sales,Shipping_Cost,Profit,Return_Status
+EC-4001,2026-07-11,Central,Beauty,Sunscreen,New,1,41.33,0.05,39.26,5.29,14.97,No
+EC-4002,2026-05-16,South,Home,Storage Box,Returning,1,36.35,0.1,32.72,13.01,1.71,No
+EC-4003,2026-08-03,East,Electronics,Mouse,New,4,66.88,0.1,240.77,17.02,83.75,No
+EC-4004,2026-07-29,North,Beauty,Sunscreen,New,3,40.63,0,121.89,16.49,48.4,No
+EC-4005,2026-08-14,Central,Electronics,Power Bank,Returning,3,96.68,0.05,275.54,17.1,84.44,No
+EC-4006,2026-07-31,East,Home,Kettle,New,2,92.41,0.1,166.34,10.64,47.7,No
+EC-4007,2026-05-26,East,Beauty,Serum,New,1,53.09,0.1,47.78,11.35,9.43,No
+EC-4008,2026-07-05,Central,Electronics,Power Bank,New,1,98.3,0,98.3,9.55,30.75,No
+EC-4009,2026-05-17,South,Beauty,Perfume,Returning,2,118.61,0,237.22,14.42,67.22,Yes
+EC-4010,2026-06-05,South,Home,Kettle,Returning,3,88.91,0.1,240.06,10.81,67.25,No
+EC-4011,2026-08-04,North,Fashion,T-Shirt,Returning,1,43.68,0.05,41.5,5.17,14.33,No
+EC-4012,2026-07-28,South,Home,Desk Fan,New,1,107.68,0,107.68,17.8,24.88,No
+EC-4013,2026-05-28,East,Beauty,Cleanser,New,3,38.18,0.15,97.36,21.89,24.47,No
+EC-4014,2026-05-21,Central,Fashion,T-Shirt,VIP,6,45.91,0.05,261.69,16.67,113.02,No
+EC-4015,2026-05-11,Central,Fashion,T-Shirt,Returning,1,46.51,0.1,41.86,17.87,1.99,No
+EC-4016,2026-06-08,South,Home,Storage Box,New,2,35.16,0.15,59.77,8.43,15.34,No
+EC-4017,2026-06-09,North,Fashion,Jeans,New,2,93.96,0.05,178.52,9.35,73.17,No
+EC-4018,2026-07-13,Central,Home,Storage Box,New,1,36.28,0.2,29.02,12.19,-1.17,No
+EC-4019,2026-07-03,North,Beauty,Sunscreen,Returning,4,42.15,0.05,160.17,10.31,73.86,No
+EC-4020,2026-05-02,Central,Fashion,T-Shirt,Returning,1,44.62,0.05,42.39,13.3,0.73,Yes
+EC-4021,2026-05-13,North,Beauty,Cleanser,Returning,4,39.44,0,157.76,6.05,83.71,No
+EC-4022,2026-08-21,Central,Electronics,Keyboard,Returning,1,123.8,,123.8,7.8,44.0,No
+EC-4023,2026-07-17,East,Electronics,Webcam,New,2,181.29,0.15,308.19,9.74,78.45,No
+EC-4024,2026-08-12,North,Fashion,Backpack,New,5,83.52,0.05,396.72,8.85,167.87,No
+EC-4025,2026-05-14,East,Electronics,Keyboard,VIP,1,117.35,0,117.35,11.34,34.01,No
+EC-4026,2026-05-14,South,Electronics,Webcam,Returning,1,175.05,0.2,140.04,11.29,18.75,No
+EC-4027,2026-05-06,North,Beauty,Perfume,Returning,1,124.56,0.15,105.88,14.02,31.86,No
+EC-4028,2026-08-09,East,Beauty,Perfume,New,1,118.44,0.05,112.52,11.31,24.33,Yes
+EC-4029,2026-07-26,Central,Home,Storage Box,Returning,3,35.32,0.05,100.66,8.25,23.31,Yes
+EC-4030,2026-08-02,South,Fashion,T-Shirt,New,2,44.83,0.05,85.18,10.99,30.19,No
+EC-4031,2026-07-30,East,Fashion,Backpack,Returning,5,82.2,0.1,369.9,10.94,138.96,No
+EC-4032,2026-05-15,South,Fashion,Jeans,Returning,3,96.93,0.15,247.17,14.04,89.13,No
+EC-4033,2026-05-26,Central,Fashion,T-Shirt,New,3,46.72,0,140.16,12.44,61.72,No
+EC-4034,2026-08-03,North,Beauty,Perfume,New,4,123.4,0.1,444.24,14.97,189.27,No
+EC-4035,2026-06-08,South,Electronics,Webcam,New,5,178.3,0,891.5,14.89,326.61,No
+EC-4036,2026-06-14,South,Home,Storage Box,New,3,35.79,0,107.37,15.83,37.54,No
+EC-4037,2026-05-19,South,Beauty,Serum,VIP,3,55.59,0.15,141.75,15.19,45.56,No
+EC-4038,2026-08-15,Central,Fashion,Jeans,Returning,1,96.63,0,96.63,9.17,39.46,No
+EC-4039,2026-05-11,East,Home,Storage Box,Returning,1,34.38,0,34.38,15.87,0.51,No
+EC-4040,2026-08-04,North,Electronics,Mouse,VIP,4,66.44,0,265.76,15.91,109.85,No
+EC-4041,2026-08-12,East,Beauty,Serum,New,1,55.03,0.05,52.28,21.67,3.61,No
+EC-4042,2026-06-03,Central,Home,Storage Box,Returning,1,35.26,0.1,31.73,9.34,4.39,No
+EC-4043,2026-05-21,Central,Beauty,Perfume,Returning,3,116.49,0.05,332.0,17.8,134.2,No
+EC-4044,2026-05-26,Central,Beauty,Sunscreen,New,1,41.32,0.2,33.06,15.97,-1.91,No
+EC-4045,2026-07-08,North,Beauty,Serum,New,5,55.7,0.1,250.65,16.73,61.32,Yes
+EC-4046,2026-05-19,Central,Electronics,Mouse,Returning,2,67.11,0,134.22,14.01,50.21,No
+EC-4047,2026-05-10,North,Beauty,Serum,,4,54.02,0.15,183.67,9.57,66.1,No
+EC-4048,2026-08-23,Central,Home,Kettle,Returning,3,88.12,0.15,224.71,8.05,54.66,No
+EC-4049,2026-07-03,South,Home,Storage Box,Returning,1,35.88,0,35.88,11.23,6.65,No
+EC-4050,2026-06-01,Central,Fashion,Backpack,Returning,2,84.66,0.2,135.46,5.25,21.89,Yes
+EC-4051,2026-07-08,Central,Electronics,Mouse,VIP,2,65.35,0,130.7,11.75,48.95,No
+EC-4052,2026-06-02,Central,Home,Desk Fan,Returning,5,110.39,0,551.95,16.02,210.93,No
+EC-4053,2026-07-04,Central,Home,Kettle,Returning,4,92.66,0.05,352.11,17.62,118.49,No
+EC-4054,2026-07-28,North,Home,Storage Box,Returning,1,34.98,0.1,31.48,13.78,-0.3,No
+EC-4055,2026-05-24,Central,Home,Pillow Set,VIP,4,67.57,0.05,256.77,15.66,89.11,No
+EC-4056,2026-05-23,South,Beauty,Perfume,Returning,2,118.61,0.05,225.36,5.91,99.45,No
+EC-4057,2026-07-20,East,Fashion,Backpack,New,1,85.63,0.1,77.07,15.24,17.83,No
+EC-4058,2026-05-24,South,Electronics,Webcam,Returning,15,182.1,0,2731.5,11.58,1069.92,No
+EC-4059,2026-05-24,Central,Beauty,Cleanser,VIP,4,38.82,0.2,124.22,13.97,42.25,No
+EC-4060,2026-07-24,South,Fashion,Jeans,Returning,2,94.07,0,188.14,12.55,51.37,Yes
+EC-4061,2026-08-20,Central,Fashion,Backpack,Returning,3,82.26,0.05,234.44,13.53,88.91,No
+EC-4062,2026-08-14,North,Electronics,Keyboard,Returning,5,119.39,0.15,507.41,8.42,138.99,No
+EC-4063,2026-08-07,South,Home,Kettle,New,2,91.77,0,183.54,12.54,63.0,No
+EC-4064,2026-05-06,North,Fashion,T-Shirt,Returning,3,46.66,0.05,132.98,11.4,55.58,No
+EC-4065,2026-07-22,South,Fashion,Jeans,Returning,2,92.78,0.15,157.73,8.4,53.33,No
+EC-4066,2026-06-12,East,Fashion,T-Shirt,Returning,1,46.48,0,46.48,9.54,14.94,No
+EC-4067,2026-08-14,Central,Electronics,Mouse,New,1,65.34,0.2,52.27,12.78,4.49,No
+EC-4068,2026-06-12,Central,Beauty,Perfume,VIP,1,117.23,0,117.23,15.88,41.35,No
+EC-4069,2026-06-11,South,Electronics,Power Bank,New,2,98.57,0,197.14,8.48,72.66,No
+EC-4070,2026-08-22,North,Home,Kettle,Returning,2,93.15,0,186.3,10.85,67.45,No
+EC-4071,2026-06-02,South,Beauty,Perfume,New,1,117.86,0.1,106.07,14.23,31.84,No
+EC-4072,2026-05-22,North,Fashion,T-Shirt,New,1,45.33,0.1,40.8,16.2,2.6,No
+EC-4073,2026-06-24,South,Fashion,Sneakers,New,3,163.68,0.2,392.83,17.52,99.31,No
+EC-4074,2026-06-19,South,Fashion,Backpack,Returning,1,84.73,0,84.73,14.61,26.12,No
+EC-4075,2026-07-17,North,Fashion,Jeans,Returning,4,96.71,0.05,367.5,8.28,167.22,No
+EC-4076,2026-07-02,East,Beauty,Perfume,New,1,122.94,0.15,104.5,9.32,35.18,No
+EC-4077,2026-05-03,South,Home,Storage Box,Returning,3,35.7,0.15,91.04,10.63,12.75,Yes
+EC-4078,2026-06-13,North,Electronics,Webcam,New,5,182.6,0,913.0,15.14,210.91,Yes
+EC-4079,2026-08-23,East,Home,Desk Fan,New,1,114.32,0,114.32,18.56,30.76,No
+EC-4080,2026-07-08,Central,Home,Kettle,New,2,92.15,0,184.3,15.73,60.57,No
+EC-4081,2026-07-20,Central,Beauty,Perfume,New,1,120.65,0.1,108.59,8.07,40.52,No
+EC-4082,2026-07-10,Central,Home,Kettle,New,5,88.69,0.2,354.76,7.35,77.41,No
+EC-4083,2026-05-04,North,Electronics,Power Bank,New,1,97.45,0,97.45,12.8,26.65,No
+EC-4084,2026-06-27,East,Fashion,T-Shirt,Returning,1,43.26,,36.77,9.39,5.38,No
+EC-4085,2026-07-08,North,Beauty,Perfume,Returning,3,116.08,0.05,330.83,13.9,136.93,No
+EC-4086,2026-05-16,South,Electronics,Keyboard,New,1,121.47,0.05,115.4,14.76,28.64,No
+EC-4087,2026-05-12,East,Home,Desk Fan,Returning,1,109.5,0,109.5,9.38,35.12,No
+EC-4088,2026-05-14,Central,Fashion,Jeans,Returning,6,94.92,0,569.52,13.7,267.82,No
+EC-4089,2026-08-12,East,Electronics,Keyboard,Returning,3,116.03,0,348.09,20.74,111.35,No
+EC-4090,2026-07-12,East,Beauty,Perfume,New,5,121.05,0.05,574.99,21.8,253.19,No
+EC-4091,2026-05-17,South,Electronics,Webcam,New,5,185.39,0,926.95,11.07,226.84,Yes
+EC-4092,2026-07-20,Central,Beauty,Cleanser,New,4,39.13,0.1,140.87,6.88,65.99,No
+EC-4093,2026-06-07,Central,Home,Kettle,New,2,86.87,0.05,165.05,5.79,51.26,No
+EC-4094,2026-06-18,Central,Beauty,Sunscreen,New,1,43.29,0,43.29,16.3,7.99,No
+EC-4095,2026-05-11,Central,Beauty,Perfume,New,3,117.87,0.15,300.57,9.7,110.87,No
+EC-4096,2026-08-07,South,Beauty,Cleanser,New,1,36.58,0.15,31.09,10.27,3.82,No
+EC-4097,2026-05-06,Central,Electronics,Keyboard,New,3,122.83,0.1,331.64,10.01,105.63,No
+EC-4098,2026-06-12,Central,Beauty,Serum,Returning,1,56.9,0,56.9,12.15,17.75,No
+EC-4099,2026-06-24,Central,Home,Desk Fan,New,1,108.59,0,108.59,14.1,29.49,No
+EC-4100,2026-05-03,Central,Home,Storage Box,Returning,1,34.48,0,34.48,12.36,4.12,No
+EC-4101,2026-05-27,Central,Fashion,Backpack,Returning,1,88.29,0.1,79.46,7.03,28.43,No
+EC-4102,2026-05-29,Central,Beauty,Cleanser,Returning,3,38.82,0.1,104.81,7.46,46.35,No
+EC-4103,2026-05-09,Central,Home,Kettle,Returning,1,90.9,0.1,81.81,5.39,22.42,No
+EC-4104,2026-06-06,Central,Home,Storage Box,New,1,33.76,0,33.76,16.19,-0.43,No
+EC-4105,2026-07-22,North,Home,Kettle,New,1,86.83,0.15,73.81,8.76,11.05,No
+EC-4106,2026-08-24,South,Beauty,Sunscreen,Returning,3,40.9,0.2,98.16,8.98,32.18,No
+EC-4107,2026-08-20,East,Fashion,T-Shirt,Returning,4,44.59,0,178.36,10.89,79.47,No
+EC-4108,2026-06-04,East,Electronics,Power Bank,New,1,95.98,0.15,81.58,21.73,-10.39,Yes
+EC-4109,2026-08-04,Central,Beauty,Sunscreen,Returning,3,42.8,0,128.4,6.35,65.05,No
+EC-4110,2026-05-16,Central,Fashion,T-Shirt,VIP,2,44.55,0.2,71.28,16.29,10.99,No
+EC-4111,2026-06-06,North,Fashion,Backpack,New,1,88.26,0.1,79.43,11.93,23.5,No
+EC-4112,2026-07-13,South,Fashion,Backpack,Returning,1,83.38,0.15,70.87,13.09,13.78,No
+EC-4113,2026-07-05,Central,Fashion,Backpack,VIP,1,84.83,0.1,76.35,15.48,16.87,No
+EC-4114,2026-07-02,Central,Home,Storage Box,New,1,34.35,0.15,29.2,7.77,3.43,No
+EC-4115,2026-07-08,Central,Electronics,Mouse,Returning,3,65.05,0.05,185.39,7.54,72.85,No
+EC-4116,2026-06-27,South,Home,Desk Fan,Returning,1,109.19,0.15,92.81,13.42,14.39,No
+EC-4117,2026-08-07,Central,Electronics,Keyboard,Returning,2,118.65,0.05,225.44,12.58,68.86,No
+EC-4118,2026-08-08,South,Home,Desk Fan,New,1,107.49,0.1,96.74,6.98,24.76,No
+EC-4119,2026-07-02,Central,Fashion,T-Shirt,Returning,1,44.74,0,44.74,9.39,13.35,No
+EC-4120,2026-07-04,Central,Electronics,Mouse,VIP,2,63.2,0.05,120.08,6.52,43.56,No
+EC-4121,2026-08-20,North,Beauty,Sunscreen,Returning,2,40.41,,76.78,6.4,20.86,Yes
+EC-4122,2026-05-28,Central,Fashion,T-Shirt,Returning,1,44.85,0,44.85,17.49,5.36,No
+EC-4123,2026-07-10,East,Fashion,Jeans,Returning,1,95.81,0,95.81,10.3,37.51,No
+EC-4124,2026-06-24,Central,Beauty,Cleanser,Returning,1,37.14,0.1,33.43,12.71,3.72,No
+EC-4125,2026-07-26,East,Home,Pillow Set,Returning,5,69.36,0.1,312.12,20.46,101.66,No
+EC-4126,2026-06-08,Central,Fashion,T-Shirt,Returning,1,46.51,0.2,37.21,16.55,-1.34,No
+EC-4127,2026-06-29,Central,Fashion,T-Shirt,VIP,3,45.62,0.2,109.49,16.37,27.12,No
+EC-4128,2026-07-07,North,Electronics,Webcam,New,1,183.22,0.2,146.58,17.83,18.75,No
+EC-4129,2026-05-28,North,Fashion,Jeans,New,1,94.64,0.15,80.44,6.93,25.51,No
+EC-4130,2026-06-22,South,Beauty,Cleanser,Returning,1,37.79,0,37.79,10.08,10.71,No
+EC-4131,2026-07-13,Central,Electronics,Keyboard,Returning,1,116.24,0.15,98.8,15.8,11.0,No
+EC-4132,2026-05-20,South,Home,Pillow Set,New,1,70.37,0.2,56.3,14.04,4.26,No
+EC-4133,2026-05-10,Central,Home,Kettle,New,2,92.99,0,185.98,13.14,64.84,No
+EC-4134,2026-07-06,South,Fashion,Sneakers,,2,164.69,0.05,312.91,8.82,120.09,No
+EC-4135,2026-08-07,Central,Fashion,T-Shirt,New,1,43.58,0.2,34.86,9.08,3.78,No
+EC-4136,2026-05-10,South,Electronics,Webcam,Returning,1,185.34,0.1,166.81,11.07,45.74,No
+EC-4137,2026-06-29,East,Home,Desk Fan,New,2,111.17,0,222.34,17.73,74.61,No
+EC-4138,2026-08-22,South,Beauty,Cleanser,New,2,36.73,0.05,69.79,7.02,28.77,No
+EC-4139,2026-07-16,Central,Beauty,Cleanser,Returning,1,38.04,0,38.04,5.83,15.21,No
+EC-4140,2026-06-04,North,Electronics,Mouse,New,1,67.57,0.05,64.19,5.64,23.55,No
+EC-4141,2026-08-10,Central,Home,Pillow Set,Returning,3,72.39,0,217.17,8.28,94.89,No
+EC-4142,2026-05-30,East,Fashion,Sneakers,VIP,2,165.03,0,330.06,20.41,125.65,No
+EC-4143,2026-08-13,South,Home,Storage Box,Returning,1,35.69,0.05,33.91,11.1,4.81,No
+EC-4144,2026-07-06,Central,Fashion,Jeans,Returning,15,92.07,0,1381.05,13.52,647.53,No
+EC-4145,2026-06-11,Central,Home,Storage Box,New,3,35.32,0.1,95.36,10.24,31.12,No
+EC-4146,2026-06-01,East,Fashion,T-Shirt,Returning,3,44.7,0.1,120.69,11.62,43.07,No
+EC-4147,2026-06-02,East,Beauty,Sunscreen,Returning,3,41.71,0.05,118.87,13.56,48.31,No
+EC-4148,2026-08-17,North,Electronics,Webcam,New,1,185.95,0,185.95,5.9,70.05,No
+EC-4149,2026-08-17,Central,Electronics,Keyboard,Returning,3,119.31,0.2,286.34,13.86,56.48,No
+EC-4150,2026-05-14,Central,Fashion,T-Shirt,New,3,43.32,0,129.96,7.36,56.6,No
+EC-4151,2026-06-03,North,Beauty,Cleanser,Returning,2,36.56,0,73.12,17.31,21.81,No
+EC-4152,2026-06-27,Central,Electronics,Power Bank,New,1,95.49,0,95.49,17.78,19.71,No
+EC-4153,2026-05-07,Central,Fashion,T-Shirt,Returning,1,43.4,0,43.4,11.83,9.57,No
+EC-4154,2026-08-19,South,Electronics,Mouse,Returning,3,67.02,0.2,160.85,7.83,48.02,No
+EC-4155,2026-08-22,Central,Electronics,Webcam,New,1,180.62,0.2,144.5,8.11,26.39,No
+EC-4156,2026-07-05,North,Beauty,Perfume,VIP,2,116.37,0.05,221.1,9.75,91.35,No
+EC-4157,2026-08-12,South,Home,Kettle,Returning,2,86.44,0.15,146.95,10.53,28.42,No
+EC-4158,2026-07-16,South,Beauty,Cleanser,New,1,38.64,0.1,34.78,5.33,12.45,No
+EC-4159,2026-07-26,East,Home,Pillow Set,New,3,70.73,0.05,201.58,17.41,70.17,No
+EC-4160,2026-08-08,Central,Fashion,Backpack,Returning,6,83.19,0.05,474.18,8.84,201.34,No
+EC-4012,2026-07-28,South,Home,Desk Fan,New,1,107.68,0,107.68,17.8,24.88,No
+EC-4068,2026-06-12,Central,Beauty,Perfume,VIP,1,117.23,0,117.23,15.88,41.35,No
+EC-4139,2026-07-16,Central,Beauty,Cleanser,Returning,1,38.04,0,38.04,5.83,15.21,No

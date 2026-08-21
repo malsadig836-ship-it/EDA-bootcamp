@@ -1,0 +1,154 @@
+﻿Transaction_ID,Date,Branch,City,Category,Product,Customer_Type,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Method
+SM-1001,2026-05-04,B,Kuala Lumpur,Household,Dish Soap,Non-Member,4,7.86,0,31.44,13.44,Cash
+SM-1002,2026-08-23,C,Penang,Household,Dish Soap,Member,5,7.77,0,38.85,16.35,E-Wallet
+SM-1003,2026-07-09,B,Kuala Lumpur,Snacks,Biscuits,Member,1,6.21,0.05,5.9,2.9,E-Wallet
+SM-1004,2026-06-17,B,Kuala Lumpur,Personal Care,Body Wash,Member,5,17.57,0,87.85,32.85,E-Wallet
+SM-1005,2026-07-08,C,Penang,Snacks,Biscuits,Non-Member,3,5.86,0,17.58,8.58,Cash
+SM-1006,2026-06-06,C,Penang,Personal Care,Toothpaste,Non-Member,4,11.2,0.05,42.56,18.56,Card
+SM-1007,2026-08-06,B,Kuala Lumpur,Household,Trash Bags,Non-Member,3,9.92,0.05,28.27,10.27,E-Wallet
+SM-1008,2026-08-12,A,Alor Setar,Groceries,Egg Tray,Member,3,14.86,0,44.58,11.58,Card
+SM-1009,2026-06-12,B,Kuala Lumpur,Groceries,Rice 5kg,Non-Member,3,28.46,0,85.38,22.38,Cash
+SM-1010,2026-05-12,D,Johor Bahru,Groceries,Milk Pack,Member,3,8.79,0.1,23.73,5.73,Card
+SM-1011,2026-08-04,C,Penang,Groceries,Rice 5kg,Non-Member,1,28.5,0,28.5,7.5,E-Wallet
+SM-1012,2026-08-18,B,Kuala Lumpur,Household,Dish Soap,Non-Member,8,8.01,0.05,60.88,24.88,Cash
+SM-1013,2026-06-15,B,Kuala Lumpur,Snacks,Biscuits,Non-Member,6,5.82,0.05,33.17,15.17,E-Wallet
+SM-1014,2026-06-11,B,Kuala Lumpur,Snacks,Biscuits,Member,8,6.12,0,48.96,24.96,E-Wallet
+SM-1015,2026-05-27,D,Johor Bahru,Groceries,Cooking Oil,,4,16.98,0.1,61.13,13.13,Card
+SM-1016,2026-07-07,D,Johor Bahru,Personal Care,Body Wash,Member,3,18.0,0.1,48.6,15.6,E-Wallet
+SM-1017,2026-05-13,D,Johor Bahru,Household,Detergent,Member,1,24.64,0,24.64,8.64,Cash
+SM-1018,2026-06-25,C,Penang,Groceries,Milk Pack,Non-Member,10,8.93,0.1,80.37,20.37,Cash
+SM-1019,2026-06-09,B,Kuala Lumpur,Household,Tissue Pack,Member,4,12.3,0.05,46.74,18.74,E-Wallet
+SM-1020,2026-07-10,B,Kuala Lumpur,Household,Trash Bags,Member,3,9.89,0.1,26.7,8.7,Cash
+SM-1021,2026-06-23,B,Kuala Lumpur,Snacks,Chips,Non-Member,3,5.12,0.1,13.82,6.32,E-Wallet
+SM-1022,2026-05-31,D,Johor Bahru,Household,Tissue Pack,Member,2,11.74,0,23.48,9.48,Cash
+SM-1023,2026-07-18,C,Penang,Groceries,Rice 5kg,Member,2,27.99,0,55.98,13.98,E-Wallet
+SM-1024,2026-05-06,B,Kuala Lumpur,Household,Dish Soap,Member,3,7.81,0.05,22.26,8.76,Cash
+SM-1025,2026-08-10,D,Johor Bahru,Household,Tissue Pack,Non-Member,3,11.92,0,35.76,14.76,Card
+SM-1026,2026-08-10,D,Johor Bahru,Groceries,Rice 5kg,Non-Member,1,28.57,0.1,25.71,4.71,E-Wallet
+SM-1027,2026-06-13,A,Alor Setar,Household,Trash Bags,Member,8,10.12,0.05,76.91,28.91,Cash
+SM-1028,2026-08-10,B,Kuala Lumpur,Groceries,Egg Tray,Non-Member,4,15.56,0.05,59.13,15.13,Card
+SM-1029,2026-07-06,B,Kuala Lumpur,Groceries,Milk Pack,Non-Member,6,9.26,0.1,50.0,14.0,Cash
+SM-1030,2026-06-11,D,Johor Bahru,Household,Tissue Pack,Member,2,12.18,0.05,23.14,9.14,Cash
+SM-1031,2026-07-29,D,Johor Bahru,Household,Tissue Pack,Member,8,11.98,,91.05,35.05,Cash
+SM-1032,2026-06-18,B,Kuala Lumpur,Personal Care,Face Wash,Member,3,25.36,0.1,68.47,23.47,Card
+SM-1033,2026-05-06,B,Kuala Lumpur,Household,Dish Soap,Member,3,8.11,0,24.33,10.83,E-Wallet
+SM-1034,2026-08-01,B,Kuala Lumpur,Household,Dish Soap,Non-Member,8,7.82,0.1,56.3,20.3,Cash
+SM-1035,2026-06-20,B,Kuala Lumpur,Personal Care,Toothpaste,Non-Member,8,10.71,0,85.68,37.68,Cash
+SM-1036,2026-06-11,B,Kuala Lumpur,Personal Care,Body Wash,Non-Member,3,18.53,0.05,52.81,19.81,Card
+SM-1037,2026-07-01,B,Kuala Lumpur,Groceries,Cooking Oil,Member,2,17.55,0.1,31.59,7.59,Card
+SM-1038,2026-05-05,A,Alor Setar,Snacks,Chocolate,Non-Member,3,6.92,0.05,19.72,9.22,E-Wallet
+SM-1039,2026-08-17,D,Johor Bahru,Personal Care,Toothpaste,Non-Member,3,11.15,0.05,31.78,13.78,Card
+SM-1040,2026-07-19,D,Johor Bahru,Groceries,Cooking Oil,Member,1,17.39,0.05,16.52,4.52,Cash
+SM-1041,2026-07-06,B,Kuala Lumpur,Snacks,Biscuits,Member,25,6.19,0.05,147.01,72.01,E-Wallet
+SM-1042,2026-08-12,D,Johor Bahru,Personal Care,Toothpaste,Member,2,11.39,0.05,21.64,9.64,E-Wallet
+SM-1043,2026-06-03,B,Kuala Lumpur,Personal Care,Face Wash,Member,6,24.74,0.1,133.6,43.6,Card
+SM-1044,2026-06-10,A,Alor Setar,Groceries,Milk Pack,Member,8,9.03,0,72.24,24.24,Card
+SM-1045,2026-08-16,C,Penang,Personal Care,Body Wash,Non-Member,3,18.4,0.1,49.68,16.68,Card
+SM-1046,2026-07-07,B,Kuala Lumpur,Household,Trash Bags,Member,5,9.75,0.05,46.31,16.31,Cash
+SM-1047,2026-06-13,B,Kuala Lumpur,Groceries,Egg Tray,Non-Member,1,15.22,0,15.22,4.22,Card
+SM-1048,2026-07-24,B,Kuala Lumpur,Household,Tissue Pack,Member,5,12.2,0,61.0,26.0,Cash
+SM-1049,2026-06-25,B,Kuala Lumpur,Household,Dish Soap,Non-Member,4,7.98,0.05,30.32,12.32,Card
+SM-1050,2026-05-23,B,Kuala Lumpur,Personal Care,Shampoo,Member,2,21.76,0,43.52,15.52,Cash
+SM-1051,2026-05-25,B,Kuala Lumpur,Personal Care,Face Wash,Non-Member,3,25.31,0,75.93,30.93,Cash
+SM-1052,2026-05-20,A,Alor Setar,Personal Care,Toothpaste,Member,2,10.98,0.1,19.76,7.76,E-Wallet
+SM-1053,2026-08-09,B,Kuala Lumpur,Personal Care,Shampoo,Member,1,21.35,0,21.35,7.35,E-Wallet
+SM-1054,2026-07-28,D,Johor Bahru,Household,Tissue Pack,Member,2,12.31,0,24.62,10.62,E-Wallet
+SM-1055,2026-08-14,B,Kuala Lumpur,Personal Care,Face Wash,Member,2,25.17,0.05,47.82,17.82,Cash
+SM-1056,2026-06-06,D,Johor Bahru,Household,Trash Bags,Non-Member,2,9.91,0.05,18.83,6.83,Card
+SM-1057,2026-08-01,A,Alor Setar,Snacks,Juice,Member,10,8.02,0,80.2,40.2,Cash
+SM-1058,2026-06-08,B,Kuala Lumpur,Groceries,Milk Pack,Member,2,9.12,0.05,17.33,5.33,E-Wallet
+SM-1059,2026-07-27,B,Kuala Lumpur,Personal Care,Toothpaste,Member,4,10.83,0.05,41.15,17.15,Cash
+SM-1060,2026-05-29,D,Johor Bahru,Groceries,Cooking Oil,Member,3,17.48,0.1,47.2,11.2,Cash
+SM-1061,2026-08-21,B,Kuala Lumpur,Snacks,Chips,Member,2,4.86,0,9.72,4.72,Cash
+SM-1062,2026-07-27,B,Kuala Lumpur,Groceries,Egg Tray,Member,2,15.26,0,30.52,8.52,Card
+SM-1063,2026-05-16,D,Johor Bahru,Household,Trash Bags,Non-Member,3,10.2,0.05,29.07,11.07,E-Wallet
+SM-1064,2026-06-19,C,Penang,Groceries,Rice 5kg,Member,4,27.4,0,109.6,25.6,Cash
+SM-1065,2026-06-04,A,Alor Setar,Personal Care,Face Wash,Member,1,24.7,0,24.7,9.7,Cash
+SM-1066,2026-05-28,D,Johor Bahru,Personal Care,Toothpaste,Non-Member,4,10.7,0.05,40.66,16.66,Card
+SM-1067,2026-07-28,C,Penang,Groceries,Cooking Oil,Non-Member,4,17.0,0.05,64.6,16.6,E-Wallet
+SM-1068,2026-08-19,A,Alor Setar,Groceries,Egg Tray,Non-Member,4,15.56,0.05,59.13,15.13,E-Wallet
+SM-1069,2026-06-02,C,Penang,Personal Care,Toothpaste,Non-Member,3,11.06,0.05,31.52,13.52,E-Wallet
+SM-1070,2026-05-11,A,Alor Setar,Household,Dish Soap,Member,2,8.08,0,16.16,7.16,Card
+SM-1071,2026-08-20,B,Kuala Lumpur,Groceries,Egg Tray,Member,4,15.19,0.05,57.72,13.72,E-Wallet
+SM-1072,2026-08-19,D,Johor Bahru,Snacks,Chips,Non-Member,1,4.98,0.05,4.73,2.23,E-Wallet
+SM-1073,2026-05-16,A,Alor Setar,Groceries,Cooking Oil,,2,17.29,0.05,32.85,8.85,Card
+SM-1074,2026-07-03,C,Penang,Personal Care,Shampoo,Non-Member,6,21.67,0.05,123.52,39.52,E-Wallet
+SM-1075,2026-07-11,B,Kuala Lumpur,Household,Tissue Pack,Member,4,11.95,0.1,43.02,15.02,Card
+SM-1076,2026-06-17,B,Kuala Lumpur,Household,Tissue Pack,Member,3,12.0,0,36.0,15.0,Card
+SM-1077,2026-07-12,B,Kuala Lumpur,Household,Detergent,Non-Member,2,23.86,0,47.72,15.72,Card
+SM-1078,2026-06-18,B,Kuala Lumpur,Snacks,Biscuits,Non-Member,1,5.92,0.1,5.33,2.33,Card
+SM-1079,2026-05-15,A,Alor Setar,Snacks,Chips,Member,8,4.99,0.1,35.93,15.93,E-Wallet
+SM-1080,2026-07-30,A,Alor Setar,Household,Detergent,Member,8,23.44,0,187.52,59.52,Card
+SM-1081,2026-05-13,B,Kuala Lumpur,Snacks,Chocolate,Member,2,7.21,0,14.42,7.42,Cash
+SM-1082,2026-07-03,B,Kuala Lumpur,Snacks,Biscuits,Non-Member,2,5.99,0.05,11.38,5.38,Cash
+SM-1083,2026-05-04,A,Alor Setar,Groceries,Cooking Oil,Member,2,16.89,0,33.78,9.78,Card
+SM-1084,2026-05-29,B,Kuala Lumpur,Personal Care,Shampoo,Member,3,22.42,0,67.26,25.26,E-Wallet
+SM-1085,2026-06-14,B,Kuala Lumpur,Groceries,Milk Pack,Non-Member,6,8.94,0,53.64,17.64,Card
+SM-1086,2026-07-02,A,Alor Setar,Groceries,Cooking Oil,Member,1,17.25,0,17.25,5.25,E-Wallet
+SM-1087,2026-06-26,B,Kuala Lumpur,Groceries,Cooking Oil,Member,3,17.23,0,51.69,15.69,Card
+SM-1088,2026-06-11,A,Alor Setar,Personal Care,Face Wash,Member,1,25.63,0.05,24.35,9.35,Cash
+SM-1089,2026-07-20,D,Johor Bahru,Snacks,Chocolate,Non-Member,3,6.85,0.05,19.52,9.02,Card
+SM-1090,2026-08-01,C,Penang,Personal Care,Face Wash,Non-Member,3,25.92,0,77.76,32.76,E-Wallet
+SM-1091,2026-06-04,D,Johor Bahru,Personal Care,Toothpaste,Non-Member,1,10.88,0,10.88,4.88,Card
+SM-1092,2026-07-22,C,Penang,Personal Care,Body Wash,Member,5,17.65,0.1,79.42,24.42,Card
+SM-1093,2026-07-21,C,Penang,Personal Care,Body Wash,Member,3,17.86,0,53.58,20.58,Cash
+SM-1094,2026-05-18,A,Alor Setar,Household,Dish Soap,Member,2,8.25,0,16.5,7.5,E-Wallet
+SM-1095,2026-06-19,B,Kuala Lumpur,Groceries,Egg Tray,Member,3,15.25,0.05,43.46,10.46,E-Wallet
+SM-1096,2026-06-22,D,Johor Bahru,Household,Tissue Pack,Member,5,11.7,0,58.5,23.5,Card
+SM-1097,2026-05-21,B,Kuala Lumpur,Snacks,Chocolate,Member,2,7.0,0.1,12.6,5.6,Cash
+SM-1098,2026-06-11,A,Alor Setar,Groceries,Rice 5kg,Member,1,27.76,,26.37,5.37,E-Wallet
+SM-1099,2026-05-11,D,Johor Bahru,Personal Care,Toothpaste,Member,4,11.08,0.05,42.1,18.1,E-Wallet
+SM-1100,2026-06-17,B,Kuala Lumpur,Household,Dish Soap,Non-Member,3,7.91,0.1,21.36,7.86,Card
+SM-1101,2026-08-21,C,Penang,Personal Care,Toothpaste,Member,1,11.1,0,11.1,5.1,Card
+SM-1102,2026-06-17,B,Kuala Lumpur,Household,Detergent,Non-Member,4,24.01,0,96.04,32.04,E-Wallet
+SM-1103,2026-05-21,B,Kuala Lumpur,Household,Detergent,Non-Member,10,24.69,0,246.9,86.9,E-Wallet
+SM-1104,2026-05-04,D,Johor Bahru,Household,Trash Bags,Non-Member,4,9.9,0.1,35.64,11.64,E-Wallet
+SM-1105,2026-05-02,A,Alor Setar,Groceries,Egg Tray,Member,1,14.78,0.05,14.04,3.04,Cash
+SM-1106,2026-06-18,C,Penang,Snacks,Chips,Member,10,4.92,0.05,46.74,21.74,Cash
+SM-1107,2026-08-05,C,Penang,Snacks,Chocolate,Non-Member,2,7.15,0,14.3,7.3,Card
+SM-1108,2026-06-08,D,Johor Bahru,Household,Dish Soap,Non-Member,3,7.78,0.05,22.17,8.67,E-Wallet
+SM-1109,2026-08-06,C,Penang,Groceries,Cooking Oil,Member,5,16.75,0.1,75.38,15.38,E-Wallet
+SM-1110,2026-05-03,A,Alor Setar,Personal Care,Toothpaste,Member,5,11.04,0.05,52.44,22.44,Cash
+SM-1111,2026-08-07,D,Johor Bahru,Snacks,Biscuits,Non-Member,3,6.0,0,18.0,9.0,Card
+SM-1112,2026-05-23,B,Kuala Lumpur,Snacks,Biscuits,Member,25,6.23,0.05,147.96,72.96,Card
+SM-1113,2026-07-17,C,Penang,Snacks,Juice,Non-Member,6,8.12,0,48.72,24.72,Cash
+SM-1114,2026-06-11,A,Alor Setar,Personal Care,Body Wash,Member,3,18.07,0,54.21,21.21,E-Wallet
+SM-1115,2026-07-10,C,Penang,Household,Dish Soap,Member,3,7.98,0,23.94,10.44,Card
+SM-1116,2026-08-24,C,Penang,Snacks,Biscuits,Member,2,5.83,0.1,10.49,4.49,E-Wallet
+SM-1117,2026-06-21,A,Alor Setar,Household,Detergent,Non-Member,3,23.62,0.1,63.77,15.77,Card
+SM-1118,2026-07-19,A,Alor Setar,Household,Tissue Pack,Member,2,11.77,0.05,22.36,8.36,Cash
+SM-1119,2026-05-02,D,Johor Bahru,Snacks,Chocolate,Member,3,7.0,0.05,19.95,9.45,E-Wallet
+SM-1120,2026-08-02,C,Penang,Snacks,Chips,,1,5.13,0,5.13,2.63,Card
+SM-1121,2026-06-14,B,Kuala Lumpur,Snacks,Chips,Non-Member,5,4.99,0,24.95,12.45,Cash
+SM-1122,2026-08-24,A,Alor Setar,Snacks,Chips,Non-Member,10,4.9,0,49.0,24.0,Card
+SM-1123,2026-07-11,C,Penang,Personal Care,Toothpaste,Non-Member,5,11.32,0,56.6,26.6,E-Wallet
+SM-1124,2026-08-07,C,Penang,Groceries,Milk Pack,Member,5,8.79,0.05,41.75,11.75,Cash
+SM-1125,2026-08-05,D,Johor Bahru,Household,Detergent,Member,2,23.75,0.05,45.12,13.12,Card
+SM-1126,2026-06-03,B,Kuala Lumpur,Personal Care,Toothpaste,Member,3,11.35,0.05,32.35,14.35,E-Wallet
+SM-1127,2026-07-10,B,Kuala Lumpur,Household,Detergent,Member,3,24.59,0,73.77,25.77,Cash
+SM-1128,2026-08-09,D,Johor Bahru,Snacks,Chips,Member,8,5.04,0.05,38.3,18.3,E-Wallet
+SM-1129,2026-05-03,C,Penang,Groceries,Rice 5kg,Member,4,28.74,0.1,103.46,19.46,Card
+SM-1130,2026-07-18,D,Johor Bahru,Personal Care,Face Wash,Member,4,25.32,0,101.28,41.28,Card
+SM-1131,2026-08-08,B,Kuala Lumpur,Household,Dish Soap,Non-Member,2,8.16,0,16.32,7.32,E-Wallet
+SM-1132,2026-05-29,B,Kuala Lumpur,Snacks,Biscuits,Non-Member,8,5.88,0.05,44.69,20.69,Card
+SM-1133,2026-05-16,B,Kuala Lumpur,Groceries,Egg Tray,Non-Member,2,14.61,0.1,26.3,4.3,Card
+SM-1134,2026-07-29,B,Kuala Lumpur,Personal Care,Face Wash,Member,5,24.49,0.05,116.33,41.33,E-Wallet
+SM-1135,2026-06-16,A,Alor Setar,Snacks,Chips,Member,5,5.08,0.05,24.13,11.63,Card
+SM-1136,2026-07-07,A,Alor Setar,Personal Care,Toothpaste,Non-Member,3,10.96,0,32.88,14.88,Card
+SM-1137,2026-07-19,B,Kuala Lumpur,Snacks,Chips,Non-Member,1,5.09,0.1,4.58,2.08,Card
+SM-1138,2026-07-14,C,Penang,Personal Care,Body Wash,Member,3,18.42,0,55.26,22.26,Card
+SM-1139,2026-08-01,C,Penang,Groceries,Cooking Oil,Member,3,17.47,0.05,49.79,13.79,Card
+SM-1140,2026-06-17,B,Kuala Lumpur,Household,Dish Soap,Member,5,7.83,0.1,35.23,12.73,E-Wallet
+SM-1141,2026-07-09,C,Penang,Groceries,Milk Pack,Member,6,8.95,0,53.7,17.7,E-Wallet
+SM-1142,2026-06-08,C,Penang,Snacks,Juice,Non-Member,3,8.16,0,24.48,12.48,E-Wallet
+SM-1143,2026-06-28,C,Penang,Groceries,Cooking Oil,Member,3,17.52,0.1,47.3,11.3,Cash
+SM-1144,2026-08-07,D,Johor Bahru,Snacks,Biscuits,Non-Member,4,6.11,0.05,23.22,11.22,Cash
+SM-1145,2026-06-15,B,Kuala Lumpur,Personal Care,Toothpaste,Member,3,11.42,0.05,32.55,14.55,Card
+SM-1146,2026-07-07,A,Alor Setar,Groceries,Milk Pack,Non-Member,8,8.94,0.05,67.94,19.94,Card
+SM-1147,2026-06-19,B,Kuala Lumpur,Personal Care,Shampoo,Member,6,22.55,0.05,128.53,44.53,Cash
+SM-1148,2026-05-26,B,Kuala Lumpur,Groceries,Milk Pack,Member,2,9.34,0,18.68,6.68,Cash
+SM-1149,2026-06-05,B,Kuala Lumpur,Snacks,Chips,Non-Member,8,5.01,0.05,38.08,18.08,E-Wallet
+SM-1150,2026-07-19,C,Penang,Snacks,Chocolate,Member,8,6.83,0.05,51.91,23.91,Card
+SM-1010,2026-05-12,D,Johor Bahru,Groceries,Milk Pack,Member,3,8.79,0.1,23.73,5.73,Card
+SM-1055,2026-08-14,B,Kuala Lumpur,Personal Care,Face Wash,Member,2,25.17,0.05,47.82,17.82,Cash
+SM-1102,2026-06-17,B,Kuala Lumpur,Household,Detergent,Non-Member,4,24.01,0,96.04,32.04,E-Wallet
